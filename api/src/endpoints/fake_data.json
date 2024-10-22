@@ -1,0 +1,5003 @@
+{"postings":[
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 61950,
+        "start_date": "2024-12-19",
+        "city": "Everman",
+        "state":    "Texas",
+        "latitude": 32.6296,
+        "longitude": -97.2827
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 44396,
+        "start_date": "2024-11-28",
+        "city": "Kezar Falls",
+        "state": "Maine",
+        "latitude": 43.808,
+        "longitude": -70.8831
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 69673,
+        "start_date": "2025-02-09",
+        "city": "Clinton",
+        "state": "North Carolina",
+        "latitude": 35.0004,
+        "longitude": -78.3313
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 50621,
+        "start_date": "2024-06-19",
+        "city": "Pemberwick",
+        "state": "Connecticut",
+        "latitude": 41.0225,
+        "longitude": -73.6564
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 66978,
+        "start_date": "2024-12-15",
+        "city": "Unionville",
+        "state": "Missouri",
+        "latitude": 40.4757,
+        "longitude": -93.0044
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 41088,
+        "start_date": "2024-04-25",
+        "city": "Ariton",
+        "state": "Alabama",
+        "latitude": 31.5978,
+        "longitude": -85.7131
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 39485,
+        "start_date": "2024-11-02",
+        "city": "Middleville",
+        "state": "New York",
+        "latitude": 43.1384,
+        "longitude": -74.9707
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 45133,
+        "start_date": "2025-03-07",
+        "city": "Falls View",
+        "state": "West Virginia",
+        "latitude": 38.1296,
+        "longitude": -81.2539
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 46529,
+        "start_date": "2024-10-23",
+        "city": "Pink",
+        "state": "Oklahoma",
+        "latitude": 35.2327,
+        "longitude": -97.1
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 46476,
+        "start_date": "2025-01-01",
+        "city": "North Industry",
+        "state": "Ohio",
+        "latitude": 40.7362,
+        "longitude": -81.3728
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 48362,
+        "start_date": "2024-05-17",
+        "city": "Galena",
+        "state": "Alaska",
+        "latitude": 64.7381,
+        "longitude": -156.8635
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 69078,
+        "start_date": "2024-10-04",
+        "city": "Silver Gate",
+        "state": "Montana",
+        "latitude": 45.0198,
+        "longitude": -109.9829
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 64019,
+        "start_date": "2024-12-13",
+        "city": "St. Onge",
+        "state": "South Dakota",
+        "latitude": 44.5458,
+        "longitude": -103.7198
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 59098,
+        "start_date": "2024-05-23",
+        "city": "South Dennis",
+        "state": "New Jersey",
+        "latitude": 39.1684,
+        "longitude": -74.8
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 58523,
+        "start_date": "2024-07-17",
+        "city": "Teec Nos Pos",
+        "state": "Arizona",
+        "latitude": 36.9221,
+        "longitude": -109.0753
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 41225,
+        "start_date": "2024-05-20",
+        "city": "Canton",
+        "state": "Indiana",
+        "latitude": 38.6239,
+        "longitude": -86.0347
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 65983,
+        "start_date": "2024-11-19",
+        "city": "Fort Towson",
+        "state": "Oklahoma",
+        "latitude": 34.0243,
+        "longitude": -95.2973
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 46949,
+        "start_date": "2025-04-18",
+        "city": "East Helena",
+        "state": "Montana",
+        "latitude": 46.585,
+        "longitude": -111.9158
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 64522,
+        "start_date": "2024-08-09",
+        "city": "Francesville",
+        "state": "Indiana",
+        "latitude": 40.9853,
+        "longitude": -86.8834
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 64215,
+        "start_date": "2025-04-16",
+        "city": "Solana Beach",
+        "state": "California",
+        "latitude": 32.9943,
+        "longitude": -117.2574
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 68856,
+        "start_date": "2024-08-25",
+        "city": "Eagle Creek",
+        "state": "Pennsylvania",
+        "latitude": 40.8989,
+        "longitude": -77.8935
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 56744,
+        "start_date": "2025-01-25",
+        "city": "Woodbury",
+        "state": "Kentucky",
+        "latitude": 37.1836,
+        "longitude": -86.6353
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 53386,
+        "start_date": "2024-05-08",
+        "city": "Greenwood Colony",
+        "state": "South Dakota",
+        "latitude": 43.2145,
+        "longitude": -98.1536
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 35860,
+        "start_date": "2024-09-25",
+        "city": "Laredo",
+        "state": "Texas",
+        "latitude": 27.5625,
+        "longitude": -99.4874
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 56578,
+        "start_date": "2024-10-30",
+        "city": "Idaville",
+        "state": "Oregon",
+        "latitude": 45.5098,
+        "longitude": -123.8633
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 47057,
+        "start_date": "2024-09-22",
+        "city": "Clay City",
+        "state": "Indiana",
+        "latitude": 39.2772,
+        "longitude": -87.1128
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 64349,
+        "start_date": "2025-01-05",
+        "city": "Clayton",
+        "state": "Michigan",
+        "latitude": 41.8649,
+        "longitude": -84.2347
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 52718,
+        "start_date": "2024-07-29",
+        "city": "Hartford",
+        "state": "South Dakota",
+        "latitude": 43.621,
+        "longitude": -96.9424
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 64615,
+        "start_date": "2024-08-25",
+        "city": "Pearl River",
+        "state": "Mississippi",
+        "latitude": 32.7889,
+        "longitude": -89.2384
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 44250,
+        "start_date": "2025-03-23",
+        "city": "Slovan",
+        "state": "Pennsylvania",
+        "latitude": 40.3595,
+        "longitude": -80.385
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 67964,
+        "start_date": "2024-11-18",
+        "city": "Detroit",
+        "state": "Alabama",
+        "latitude": 34.0274,
+        "longitude": -88.1678
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 38165,
+        "start_date": "2024-10-27",
+        "city": "Idaho Springs",
+        "state": "Colorado",
+        "latitude": 39.7444,
+        "longitude": -105.5006
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 56316,
+        "start_date": "2024-05-08",
+        "city": "Worth",
+        "state": "Missouri",
+        "latitude": 40.4045,
+        "longitude": -94.4465
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 39719,
+        "start_date": "2024-08-04",
+        "city": "Lake Hamilton",
+        "state": "Florida",
+        "latitude": 28.0478,
+        "longitude": -81.627
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 54039,
+        "start_date": "2024-09-01",
+        "city": "Elkton",
+        "state": "Maryland",
+        "latitude": 39.6066,
+        "longitude": -75.8209
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 52650,
+        "start_date": "2024-06-15",
+        "city": "Hodgkins",
+        "state": "Illinois",
+        "latitude": 41.7659,
+        "longitude": -87.8613
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 42725,
+        "start_date": "2025-03-09",
+        "city": "Tremonton",
+        "state": "Utah",
+        "latitude": 41.7187,
+        "longitude": -112.189
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 69226,
+        "start_date": "2025-04-17",
+        "city": "Santa Clara",
+        "state": "New Mexico",
+        "latitude": 32.7801,
+        "longitude": -108.1493
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 57572,
+        "start_date": "2024-10-01",
+        "city": "Baytown",
+        "state": "Texas",
+        "latitude": 29.7587,
+        "longitude": -94.9671
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 59361,
+        "start_date": "2024-05-26",
+        "city": "St. Mary of the Woods",
+        "state": "Indiana",
+        "latitude": 39.5123,
+        "longitude": -87.4631
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 56358,
+        "start_date": "2025-03-20",
+        "city": "Lavalette",
+        "state": "West Virginia",
+        "latitude": 38.3224,
+        "longitude": -82.4479
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 38038,
+        "start_date": "2024-09-13",
+        "city": "Mineola",
+        "state": "Iowa",
+        "latitude": 41.1414,
+        "longitude": -95.6947
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 39670,
+        "start_date": "2025-04-17",
+        "city": "Edwardsport",
+        "state": "Indiana",
+        "latitude": 38.8125,
+        "longitude": -87.2513
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 39376,
+        "start_date": "2024-04-25",
+        "city": "Denton",
+        "state": "Maryland",
+        "latitude": 38.877,
+        "longitude": -75.8264
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 60575,
+        "start_date": "2024-10-01",
+        "city": "Champion Heights",
+        "state": "Ohio",
+        "latitude": 41.3031,
+        "longitude": -80.8514
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 45955,
+        "start_date": "2025-03-09",
+        "city": "Freeport",
+        "state": "Ohio",
+        "latitude": 40.2109,
+        "longitude": -81.2686
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 58535,
+        "start_date": "2024-09-26",
+        "city": "Geneva",
+        "state": "Iowa",
+        "latitude": 42.6748,
+        "longitude": -93.1298
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 53089,
+        "start_date": "2025-03-19",
+        "city": "Indian Wells",
+        "state": "Arizona",
+        "latitude": 35.4089,
+        "longitude": -110.1062
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 51282,
+        "start_date": "2024-10-22",
+        "city": "Abernathy",
+        "state": "Texas",
+        "latitude": 33.842,
+        "longitude": -101.8162
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 46364,
+        "start_date": "2025-04-16",
+        "city": "Dorneyville",
+        "state": "Pennsylvania",
+        "latitude": 40.5762,
+        "longitude": -75.5194
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 49012,
+        "start_date": "2024-05-18",
+        "city": "Berkley",
+        "state": "Iowa",
+        "latitude": 41.9465,
+        "longitude": -94.1136
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 67428,
+        "start_date": "2025-01-11",
+        "city": "Lithia Springs",
+        "state": "Georgia",
+        "latitude": 33.7811,
+        "longitude": -84.6487
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 49993,
+        "start_date": "2024-10-10",
+        "city": "Thayer",
+        "state": "Missouri",
+        "latitude": 36.5223,
+        "longitude": -91.5408
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 58240,
+        "start_date": "2024-07-02",
+        "city": "St. Clair Shores",
+        "state": "Michigan",
+        "latitude": 42.4925,
+        "longitude": -82.8961
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 43171,
+        "start_date": "2024-09-27",
+        "city": "Conroy",
+        "state": "Iowa",
+        "latitude": 41.7266,
+        "longitude": -91.9985
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 50960,
+        "start_date": "2024-11-01",
+        "city": "Wright City",
+        "state": "Oklahoma",
+        "latitude": 34.0649,
+        "longitude": -95.0074
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 63815,
+        "start_date": "2025-01-12",
+        "city": "Ireton",
+        "state": "Iowa",
+        "latitude": 42.9749,
+        "longitude": -96.3216
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 61136,
+        "start_date": "2024-08-07",
+        "city": "Nunapitchuk",
+        "state": "Alaska",
+        "latitude": 60.8772,
+        "longitude": -162.4615
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 48054,
+        "start_date": "2025-01-04",
+        "city": "Conejo",
+        "state": "New Mexico",
+        "latitude": 35.6287,
+        "longitude": -105.9423
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 65997,
+        "start_date": "2024-10-12",
+        "city": "Newton",
+        "state": "Mississippi",
+        "latitude": 32.3296,
+        "longitude": -89.1534
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 63208,
+        "start_date": "2024-12-26",
+        "city": "Zapata",
+        "state": "Texas",
+        "latitude": 26.9026,
+        "longitude": -99.2612
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 59202,
+        "start_date": "2025-03-13",
+        "city": "Nara Visa",
+        "state": "New Mexico",
+        "latitude": 35.6068,
+        "longitude": -103.1043
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 60860,
+        "start_date": "2024-04-25",
+        "city": "Cementon",
+        "state": "Pennsylvania",
+        "latitude": 40.689,
+        "longitude": -75.5161
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 43578,
+        "start_date": "2024-07-29",
+        "city": "Harbor Hills",
+        "state": "Ohio",
+        "latitude": 39.9366,
+        "longitude": -82.4343
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 40635,
+        "start_date": "2024-11-14",
+        "city": "Danville",
+        "state": "Washington",
+        "latitude": 48.9938,
+        "longitude": -118.5068
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 61730,
+        "start_date": "2024-11-22",
+        "city": "Fittstown",
+        "state": "Oklahoma",
+        "latitude": 34.6091,
+        "longitude": -96.6405
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 52476,
+        "start_date": "2024-07-19",
+        "city": "Zephyr Cove",
+        "state": "Nevada",
+        "latitude": 39.0082,
+        "longitude": -119.9307
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 44643,
+        "start_date": "2024-11-24",
+        "city": "Ramseur",
+        "state": "North Carolina",
+        "latitude": 35.7371,
+        "longitude": -79.6543
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 46665,
+        "start_date": "2024-09-17",
+        "city": "Tancred",
+        "state": "California",
+        "latitude": 38.7619,
+        "longitude": -122.1547
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 53516,
+        "start_date": "2024-10-22",
+        "city": "Kanab",
+        "state": "Utah",
+        "latitude": 37.0262,
+        "longitude": -112.5219
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 49350,
+        "start_date": "2024-10-16",
+        "city": "Byers",
+        "state": "Texas",
+        "latitude": 34.0696,
+        "longitude": -98.1913
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 65510,
+        "start_date": "2024-05-05",
+        "city": "Maple Heights-Lake Desire",
+        "state": "Washington",
+        "latitude": 47.4441,
+        "longitude": -122.0972
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 48242,
+        "start_date": "2025-02-16",
+        "city": "Bevier",
+        "state": "Missouri",
+        "latitude": 39.7513,
+        "longitude": -92.5638
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 59660,
+        "start_date": "2025-04-16",
+        "city": "Washington Grove",
+        "state": "Maryland",
+        "latitude": 39.1407,
+        "longitude": -77.1746
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 44904,
+        "start_date": "2024-11-03",
+        "city": "North Arlington",
+        "state": "New Jersey",
+        "latitude": 40.7874,
+        "longitude": -74.1273
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 67960,
+        "start_date": "2025-02-02",
+        "city": "Lindstrom",
+        "state": "Minnesota",
+        "latitude": 45.387,
+        "longitude": -92.8477
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 44016,
+        "start_date": "2024-06-23",
+        "city": "New Bedford",
+        "state": "Illinois",
+        "latitude": 41.5114,
+        "longitude": -89.7181
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 47522,
+        "start_date": "2024-05-20",
+        "city": "Clio",
+        "state": "Alabama",
+        "latitude": 31.7085,
+        "longitude": -85.6109
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 67863,
+        "start_date": "2025-03-25",
+        "city": "Harbor Bluffs",
+        "state": "Florida",
+        "latitude": 27.9081,
+        "longitude": -82.827
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 58321,
+        "start_date": "2024-10-28",
+        "city": "Cottage Lake",
+        "state": "Washington",
+        "latitude": 47.7466,
+        "longitude": -122.0755
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 54609,
+        "start_date": "2025-01-11",
+        "city": "Bolivia",
+        "state": "North Carolina",
+        "latitude": 34.0699,
+        "longitude": -78.1472
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 69041,
+        "start_date": "2025-04-14",
+        "city": "Farwell",
+        "state": "Nebraska",
+        "latitude": 41.2156,
+        "longitude": -98.628
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 41782,
+        "start_date": "2024-11-12",
+        "city": "Pratt",
+        "state": "Kansas",
+        "latitude": 37.6765,
+        "longitude": -98.7451
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 39224,
+        "start_date": "2024-12-20",
+        "city": "Oak Hall",
+        "state": "Virginia",
+        "latitude": 37.9307,
+        "longitude": -75.547
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 45511,
+        "start_date": "2024-11-16",
+        "city": "Charles City",
+        "state": "Iowa",
+        "latitude": 43.0646,
+        "longitude": -92.6745
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 35546,
+        "start_date": "2024-05-08",
+        "city": "Weitchpec",
+        "state": "California",
+        "latitude": 41.1969,
+        "longitude": -123.6939
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 47966,
+        "start_date": "2025-03-09",
+        "city": "Oakmont",
+        "state": "Pennsylvania",
+        "latitude": 40.52,
+        "longitude": -79.8365
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 38352,
+        "start_date": "2024-12-27",
+        "city": "Grafton",
+        "state": "North Dakota",
+        "latitude": 48.4142,
+        "longitude": -97.4056
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 52942,
+        "start_date": "2025-04-20",
+        "city": "Iron Belt",
+        "state": "Wisconsin",
+        "latitude": 46.4031,
+        "longitude": -90.3194
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 62685,
+        "start_date": "2024-11-10",
+        "city": "Uniondale",
+        "state": "Indiana",
+        "latitude": 40.8299,
+        "longitude": -85.2415
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 58989,
+        "start_date": "2024-12-02",
+        "city": "Ridge Spring",
+        "state": "South Carolina",
+        "latitude": 33.8453,
+        "longitude": -81.6617
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 42039,
+        "start_date": "2024-05-29",
+        "city": "Alderwood Manor",
+        "state": "Washington",
+        "latitude": 47.8146,
+        "longitude": -122.2672
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 63485,
+        "start_date": "2024-05-10",
+        "city": "Hiller",
+        "state": "Pennsylvania",
+        "latitude": 40.0069,
+        "longitude": -79.9049
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 69464,
+        "start_date": "2024-08-13",
+        "city": "Genola",
+        "state": "Minnesota",
+        "latitude": 45.9653,
+        "longitude": -94.1129
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 36558,
+        "start_date": "2025-01-12",
+        "city": "Indian Point",
+        "state": "Missouri",
+        "latitude": 36.6428,
+        "longitude": -93.3444
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 52414,
+        "start_date": "2025-03-20",
+        "city": "Midlothian",
+        "state": "Texas",
+        "latitude": 32.4669,
+        "longitude": -96.989
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 53029,
+        "start_date": "2024-07-15",
+        "city": "Green River",
+        "state": "Wyoming",
+        "latitude": 41.5127,
+        "longitude": -109.471
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 68400,
+        "start_date": "2024-11-09",
+        "city": "Louann",
+        "state": "Arkansas",
+        "latitude": 33.3915,
+        "longitude": -92.7923
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 47227,
+        "start_date": "2024-09-06",
+        "city": "Reno",
+        "state": "Texas",
+        "latitude": 33.6659,
+        "longitude": -95.4768
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 36594,
+        "start_date": "2025-03-28",
+        "city": "Rose Hill",
+        "state": "Iowa",
+        "latitude": 41.3203,
+        "longitude": -92.4637
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 69415,
+        "start_date": "2025-02-23",
+        "city": "Hardinsburg",
+        "state": "Indiana",
+        "latitude": 38.462,
+        "longitude": -86.2733
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 43807,
+        "start_date": "2025-02-21",
+        "city": "Spring Valley",
+        "state": "Minnesota",
+        "latitude": 43.6888,
+        "longitude": -92.3897
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 47889,
+        "start_date": "2024-06-07",
+        "city": "Halley",
+        "state": "Arkansas",
+        "latitude": 33.5363,
+        "longitude": -91.3236
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 52584,
+        "start_date": "2024-10-10",
+        "city": "Deweyville",
+        "state": "Utah",
+        "latitude": 41.693,
+        "longitude": -112.0883
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 35254,
+        "start_date": "2025-01-12",
+        "city": "Cope",
+        "state": "Colorado",
+        "latitude": 39.6692,
+        "longitude": -102.8501
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 35401,
+        "start_date": "2024-09-07",
+        "city": "Sheboygan",
+        "state": "Wisconsin",
+        "latitude": 43.7403,
+        "longitude": -87.7316
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 68020,
+        "start_date": "2024-09-04",
+        "city": "Myrtle Point",
+        "state": "Oregon",
+        "latitude": 43.0617,
+        "longitude": -124.1327
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 68277,
+        "start_date": "2025-02-18",
+        "city": "Coal City",
+        "state": "Illinois",
+        "latitude": 41.2772,
+        "longitude": -88.2803
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 49496,
+        "start_date": "2024-05-17",
+        "city": "Brewer",
+        "state": "Missouri",
+        "latitude": 37.7836,
+        "longitude": -89.918
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 49703,
+        "start_date": "2025-03-19",
+        "city": "Wabeno",
+        "state": "Wisconsin",
+        "latitude": 45.4394,
+        "longitude": -88.658
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 51117,
+        "start_date": "2025-04-09",
+        "city": "Lawton",
+        "state": "Michigan",
+        "latitude": 42.1678,
+        "longitude": -85.8461
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 37599,
+        "start_date": "2024-09-15",
+        "city": "Hardwood Acres",
+        "state": "Michigan",
+        "latitude": 44.7213,
+        "longitude": -85.8263
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 36095,
+        "start_date": "2025-02-19",
+        "city": "Lochearn",
+        "state": "Maryland",
+        "latitude": 39.3461,
+        "longitude": -76.7307
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 45386,
+        "start_date": "2024-04-29",
+        "city": "Idaho Falls",
+        "state": "Idaho",
+        "latitude": 43.4871,
+        "longitude": -112.0362
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 49424,
+        "start_date": "2024-10-17",
+        "city": "Cearfoss",
+        "state": "Maryland",
+        "latitude": 39.699,
+        "longitude": -77.7765
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 39479,
+        "start_date": "2024-08-10",
+        "city": "Caledonia",
+        "state": "Minnesota",
+        "latitude": 43.6344,
+        "longitude": -91.5009
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 58756,
+        "start_date": "2025-04-05",
+        "city": "Yabucoa",
+        "state": "Puerto Rico",
+        "latitude": 18.0464,
+        "longitude": -65.8803
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 40586,
+        "start_date": "2025-02-14",
+        "city": "Grandin",
+        "state": "Missouri",
+        "latitude": 36.8308,
+        "longitude": -90.8221
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 39133,
+        "start_date": "2024-11-29",
+        "city": "Indian Falls",
+        "state": "California",
+        "latitude": 40.0587,
+        "longitude": -120.9803
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 61017,
+        "start_date": "2025-02-27",
+        "city": "Highland Hills",
+        "state": "Ohio",
+        "latitude": 41.4507,
+        "longitude": -81.5191
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 54571,
+        "start_date": "2024-07-24",
+        "city": "Columbia Heights",
+        "state": "Minnesota",
+        "latitude": 45.0484,
+        "longitude": -93.2472
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 46424,
+        "start_date": "2024-08-21",
+        "city": "Lewisville",
+        "state": "Washington",
+        "latitude": 45.8128,
+        "longitude": -122.5143
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 54540,
+        "start_date": "2024-10-09",
+        "city": "Montvale",
+        "state": "New Jersey",
+        "latitude": 41.0529,
+        "longitude": -74.0499
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 40048,
+        "start_date": "2024-05-21",
+        "city": "Beckett Ridge",
+        "state": "Ohio",
+        "latitude": 39.3448,
+        "longitude": -84.438
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 39348,
+        "start_date": "2024-07-14",
+        "city": "Duson",
+        "state": "Louisiana",
+        "latitude": 30.2365,
+        "longitude": -92.193
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 42455,
+        "start_date": "2025-01-23",
+        "city": "South Ogden",
+        "state": "Utah",
+        "latitude": 41.1722,
+        "longitude": -111.9576
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 63853,
+        "start_date": "2025-01-17",
+        "city": "Bern",
+        "state": "Kansas",
+        "latitude": 39.9612,
+        "longitude": -95.9713
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 53367,
+        "start_date": "2024-08-25",
+        "city": "Commerce",
+        "state": "Texas",
+        "latitude": 33.2421,
+        "longitude": -95.8992
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 45481,
+        "start_date": "2024-08-31",
+        "city": "Benton",
+        "state": "Arkansas",
+        "latitude": 34.5776,
+        "longitude": -92.5713
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 38449,
+        "start_date": "2025-02-20",
+        "city": "Concord",
+        "state": "Nebraska",
+        "latitude": 42.3839,
+        "longitude": -96.989
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 40512,
+        "start_date": "2024-12-06",
+        "city": "Moscow",
+        "state": "Idaho",
+        "latitude": 46.7308,
+        "longitude": -116.9986
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 50687,
+        "start_date": "2024-12-08",
+        "city": "Deanville",
+        "state": "Texas",
+        "latitude": 30.4295,
+        "longitude": -96.7569
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 64675,
+        "start_date": "2024-06-09",
+        "city": "West Bend",
+        "state": "Iowa",
+        "latitude": 42.96,
+        "longitude": -94.4457
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 36912,
+        "start_date": "2024-12-17",
+        "city": "Del Dios",
+        "state": "California",
+        "latitude": 33.0757,
+        "longitude": -117.119
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 49789,
+        "start_date": "2024-08-14",
+        "city": "Virgilina",
+        "state": "Virginia",
+        "latitude": 36.5463,
+        "longitude": -78.7755
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 44984,
+        "start_date": "2024-08-08",
+        "city": "Friona",
+        "state": "Texas",
+        "latitude": 34.6394,
+        "longitude": -102.723
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 64931,
+        "start_date": "2024-08-04",
+        "city": "South Run",
+        "state": "Virginia",
+        "latitude": 38.7467,
+        "longitude": -77.2754
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 35132,
+        "start_date": "2024-10-19",
+        "city": "Concordia",
+        "state": "New Jersey",
+        "latitude": 40.3125,
+        "longitude": -74.4461
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 66526,
+        "start_date": "2024-12-13",
+        "city": "Avery",
+        "state": "Texas",
+        "latitude": 33.5521,
+        "longitude": -94.7803
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 53078,
+        "start_date": "2024-10-22",
+        "city": "Lima",
+        "state": "Ohio",
+        "latitude": 40.741,
+        "longitude": -84.112
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 50857,
+        "start_date": "2024-08-11",
+        "city": "Belspring",
+        "state": "Virginia",
+        "latitude": 37.1938,
+        "longitude": -80.6097
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 67992,
+        "start_date": "2024-05-27",
+        "city": "Cedar Grove",
+        "state": "Florida",
+        "latitude": 30.1812,
+        "longitude": -85.6268
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 51447,
+        "start_date": "2024-10-15",
+        "city": "Clarkson",
+        "state": "Nebraska",
+        "latitude": 41.7234,
+        "longitude": -97.1215
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 63176,
+        "start_date": "2024-09-09",
+        "city": "Crafton",
+        "state": "Pennsylvania",
+        "latitude": 40.4333,
+        "longitude": -80.0712
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 54704,
+        "start_date": "2024-09-11",
+        "city": "Richfield",
+        "state": "North Carolina",
+        "latitude": 35.4716,
+        "longitude": -80.2586
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 49767,
+        "start_date": "2025-01-18",
+        "city": "Ansonia",
+        "state": "Connecticut",
+        "latitude": 41.3443,
+        "longitude": -73.0689
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 36858,
+        "start_date": "2024-05-09",
+        "city": "Winnsboro",
+        "state": "South Carolina",
+        "latitude": 34.3718,
+        "longitude": -81.0907
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 69731,
+        "start_date": "2024-04-25",
+        "city": "Fredonia",
+        "state": "Pennsylvania",
+        "latitude": 41.3219,
+        "longitude": -80.2581
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 37079,
+        "start_date": "2025-03-28",
+        "city": "Paloma Creek South",
+        "state": "Texas",
+        "latitude": 33.21,
+        "longitude": -96.9325
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 39898,
+        "start_date": "2025-01-21",
+        "city": "Barker Heights",
+        "state": "North Carolina",
+        "latitude": 35.3104,
+        "longitude": -82.4412
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 53533,
+        "start_date": "2024-12-16",
+        "city": "North Rose",
+        "state": "New York",
+        "latitude": 43.1872,
+        "longitude": -76.8863
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 57670,
+        "start_date": "2024-11-06",
+        "city": "Westwood",
+        "state": "Pennsylvania",
+        "latitude": 39.9702,
+        "longitude": -75.8555
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 62885,
+        "start_date": "2025-03-04",
+        "city": "Millstadt",
+        "state": "Illinois",
+        "latitude": 38.4579,
+        "longitude": -90.0834
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 37741,
+        "start_date": "2024-09-15",
+        "city": "Dolgeville",
+        "state": "New York",
+        "latitude": 43.1031,
+        "longitude": -74.7749
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 58490,
+        "start_date": "2025-01-20",
+        "city": "Parma",
+        "state": "Missouri",
+        "latitude": 36.6117,
+        "longitude": -89.8189
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 49994,
+        "start_date": "2024-09-29",
+        "city": "Hayti",
+        "state": "Pennsylvania",
+        "latitude": 39.9873,
+        "longitude": -75.8454
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 51524,
+        "start_date": "2025-04-13",
+        "city": "Buckley",
+        "state": "Washington",
+        "latitude": 47.1615,
+        "longitude": -122.02
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 62433,
+        "start_date": "2024-09-08",
+        "city": "Wells",
+        "state": "Texas",
+        "latitude": 31.4916,
+        "longitude": -94.9473
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 65905,
+        "start_date": "2024-06-18",
+        "city": "Morton Grove",
+        "state": "Illinois",
+        "latitude": 42.0423,
+        "longitude": -87.789
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 65331,
+        "start_date": "2024-09-24",
+        "city": "Bartley",
+        "state": "West Virginia",
+        "latitude": 37.3372,
+        "longitude": -81.7334
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 69451,
+        "start_date": "2024-07-29",
+        "city": "Manti",
+        "state": "Utah",
+        "latitude": 39.2668,
+        "longitude": -111.6351
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 70000,
+        "start_date": "2024-06-04",
+        "city": "Bear Lake",
+        "state": "Indiana",
+        "latitude": 41.3241,
+        "longitude": -85.5151
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 44482,
+        "start_date": "2025-04-07",
+        "city": "Pabellones",
+        "state": "Puerto Rico",
+        "latitude": 18.4412,
+        "longitude": -66.2156
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 60561,
+        "start_date": "2024-12-20",
+        "city": "McFarland",
+        "state": "California",
+        "latitude": 35.6781,
+        "longitude": -119.2413
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 51401,
+        "start_date": "2024-05-29",
+        "city": "Riverdale",
+        "state": "Utah",
+        "latitude": 41.1732,
+        "longitude": -112.0023
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 56150,
+        "start_date": "2024-08-17",
+        "city": "North Beach",
+        "state": "Maryland",
+        "latitude": 38.708,
+        "longitude": -76.5346
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 46950,
+        "start_date": "2024-07-12",
+        "city": "Kake",
+        "state": "Alaska",
+        "latitude": 56.9729,
+        "longitude": -133.9148
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 51566,
+        "start_date": "2024-06-17",
+        "city": "Olmos Park",
+        "state": "Texas",
+        "latitude": 29.4749,
+        "longitude": -98.4866
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 48746,
+        "start_date": "2024-09-22",
+        "city": "Mound Valley",
+        "state": "Kansas",
+        "latitude": 37.2071,
+        "longitude": -95.4046
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 67347,
+        "start_date": "2025-02-07",
+        "city": "Braddock Hills",
+        "state": "Pennsylvania",
+        "latitude": 40.418,
+        "longitude": -79.863
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 46098,
+        "start_date": "2025-03-13",
+        "city": "Americus",
+        "state": "Kansas",
+        "latitude": 38.5066,
+        "longitude": -96.2615
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 60512,
+        "start_date": "2024-07-28",
+        "city": "South Roxana",
+        "state": "Illinois",
+        "latitude": 38.812,
+        "longitude": -90.0612
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 41359,
+        "start_date": "2024-05-08",
+        "city": "Slinger",
+        "state": "Wisconsin",
+        "latitude": 43.3317,
+        "longitude": -88.2798
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 51384,
+        "start_date": "2025-01-18",
+        "city": "Searles Valley",
+        "state": "California",
+        "latitude": 35.77,
+        "longitude": -117.3967
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 59506,
+        "start_date": "2024-10-19",
+        "city": "Hoosick Falls",
+        "state": "New York",
+        "latitude": 42.9009,
+        "longitude": -73.35
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 44057,
+        "start_date": "2024-06-22",
+        "city": "Charlack",
+        "state": "Missouri",
+        "latitude": 38.7029,
+        "longitude": -90.3427
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 65465,
+        "start_date": "2025-04-12",
+        "city": "Loch Arbour",
+        "state": "New Jersey",
+        "latitude": 40.2323,
+        "longitude": -74.0013
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 66474,
+        "start_date": "2024-05-27",
+        "city": "Colleyville",
+        "state": "Texas",
+        "latitude": 32.8913,
+        "longitude": -97.1486
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 37076,
+        "start_date": "2025-03-03",
+        "city": "Channing",
+        "state": "Texas",
+        "latitude": 35.6819,
+        "longitude": -102.3322
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 42851,
+        "start_date": "2024-09-27",
+        "city": "Medicine Bow",
+        "state": "Wyoming",
+        "latitude": 41.8995,
+        "longitude": -106.2019
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 38426,
+        "start_date": "2024-06-24",
+        "city": "Badger",
+        "state": "Iowa",
+        "latitude": 42.6141,
+        "longitude": -94.1446
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 39220,
+        "start_date": "2024-04-26",
+        "city": "South Fork",
+        "state": "Colorado",
+        "latitude": 37.6691,
+        "longitude": -106.6417
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 58307,
+        "start_date": "2024-11-01",
+        "city": "Ellaville",
+        "state": "Georgia",
+        "latitude": 32.238,
+        "longitude": -84.3089
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 42346,
+        "start_date": "2024-07-05",
+        "city": "Cumberland-Hesstown",
+        "state": "New Jersey",
+        "latitude": 39.3641,
+        "longitude": -74.9284
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 66301,
+        "start_date": "2025-02-07",
+        "city": "Fergus Falls",
+        "state": "Minnesota",
+        "latitude": 46.2854,
+        "longitude": -96.0758
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 57131,
+        "start_date": "2025-01-12",
+        "city": "Linton",
+        "state": "Indiana",
+        "latitude": 39.0354,
+        "longitude": -87.1577
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 49774,
+        "start_date": "2025-03-21",
+        "city": "Colchester",
+        "state": "Illinois",
+        "latitude": 40.4256,
+        "longitude": -90.7922
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 58156,
+        "start_date": "2024-05-05",
+        "city": "Maynard",
+        "state": "Arkansas",
+        "latitude": 36.4214,
+        "longitude": -90.9018
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 56041,
+        "start_date": "2024-10-09",
+        "city": "Perryville",
+        "state": "Maryland",
+        "latitude": 39.5737,
+        "longitude": -76.0668
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 51630,
+        "start_date": "2025-04-22",
+        "city": "Draper",
+        "state": "Virginia",
+        "latitude": 37.0012,
+        "longitude": -80.7372
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 51358,
+        "start_date": "2024-08-04",
+        "city": "South Tucson",
+        "state": "Arizona",
+        "latitude": 32.1955,
+        "longitude": -110.9692
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 60481,
+        "start_date": "2025-01-15",
+        "city": "Robinson",
+        "state": "Texas",
+        "latitude": 31.4501,
+        "longitude": -97.1201
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 50530,
+        "start_date": "2024-10-12",
+        "city": "Firth",
+        "state": "Idaho",
+        "latitude": 43.3057,
+        "longitude": -112.1834
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 64563,
+        "start_date": "2024-07-01",
+        "city": "Berlin",
+        "state": "Illinois",
+        "latitude": 39.7569,
+        "longitude": -89.9024
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 50519,
+        "start_date": "2025-04-19",
+        "city": "Cabin John",
+        "state": "Maryland",
+        "latitude": 38.9742,
+        "longitude": -77.1632
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 38385,
+        "start_date": "2024-05-04",
+        "city": "Castro Valley",
+        "state": "California",
+        "latitude": 37.7088,
+        "longitude": -122.0626
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 52261,
+        "start_date": "2024-11-16",
+        "city": "Oxford",
+        "state": "Kansas",
+        "latitude": 37.2741,
+        "longitude": -97.1696
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 55637,
+        "start_date": "2025-02-09",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "latitude": 43.0822,
+        "longitude": -89.393
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 43128,
+        "start_date": "2025-01-16",
+        "city": "Brent",
+        "state": "Florida",
+        "latitude": 30.4727,
+        "longitude": -87.2495
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 45854,
+        "start_date": "2025-01-04",
+        "city": "Argonne",
+        "state": "Wisconsin",
+        "latitude": 45.6582,
+        "longitude": -88.8777
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 41548,
+        "start_date": "2025-02-17",
+        "city": "Erie",
+        "state": "North Dakota",
+        "latitude": 47.1154,
+        "longitude": -97.3879
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 67563,
+        "start_date": "2024-12-03",
+        "city": "Escondido",
+        "state": "California",
+        "latitude": 33.1348,
+        "longitude": -117.0723
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 53613,
+        "start_date": "2024-08-17",
+        "city": "St. Georges",
+        "state": "Delaware",
+        "latitude": 39.5606,
+        "longitude": -75.6514
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 47084,
+        "start_date": "2024-06-08",
+        "city": "Oak Grove",
+        "state": "Illinois",
+        "latitude": 41.412,
+        "longitude": -90.5742
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 41211,
+        "start_date": "2024-10-17",
+        "city": "Hayfork",
+        "state": "California",
+        "latitude": 40.561,
+        "longitude": -123.1298
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 65626,
+        "start_date": "2024-11-30",
+        "city": "McSherrystown",
+        "state": "Pennsylvania",
+        "latitude": 39.8036,
+        "longitude": -77.0199
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 49595,
+        "start_date": "2024-12-18",
+        "city": "Fairdale",
+        "state": "Pennsylvania",
+        "latitude": 39.8902,
+        "longitude": -79.968
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 54337,
+        "start_date": "2024-04-26",
+        "city": "Loving",
+        "state": "Texas",
+        "latitude": 33.2628,
+        "longitude": -98.5156
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 42843,
+        "start_date": "2024-08-07",
+        "city": "Montello",
+        "state": "Wisconsin",
+        "latitude": 43.794,
+        "longitude": -89.3333
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 36743,
+        "start_date": "2024-07-01",
+        "city": "Clarksburg",
+        "state": "Maryland",
+        "latitude": 39.2246,
+        "longitude": -77.2659
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 56296,
+        "start_date": "2025-02-20",
+        "city": "Deer Lodge",
+        "state": "Montana",
+        "latitude": 46.398,
+        "longitude": -112.7334
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 52148,
+        "start_date": "2024-11-03",
+        "city": "North Fair Oaks",
+        "state": "California",
+        "latitude": 37.4754,
+        "longitude": -122.2034
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 48387,
+        "start_date": "2024-05-05",
+        "city": "Ketron Island",
+        "state": "Washington",
+        "latitude": 47.1569,
+        "longitude": -122.6343
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 42725,
+        "start_date": "2024-11-21",
+        "city": "Lake Wylie",
+        "state": "South Carolina",
+        "latitude": 35.0997,
+        "longitude": -81.0678
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 60274,
+        "start_date": "2024-06-09",
+        "city": "Warrenton",
+        "state": "Georgia",
+        "latitude": 33.4067,
+        "longitude": -82.6653
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 50094,
+        "start_date": "2025-02-14",
+        "city": "Thompsontown",
+        "state": "Pennsylvania",
+        "latitude": 40.5658,
+        "longitude": -77.2361
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 44515,
+        "start_date": "2024-12-01",
+        "city": "Plum Valley",
+        "state": "Illinois",
+        "latitude": 41.4611,
+        "longitude": -87.5442
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 62590,
+        "start_date": "2025-02-01",
+        "city": "Venice",
+        "state": "Florida",
+        "latitude": 27.1184,
+        "longitude": -82.4137
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 54782,
+        "start_date": "2024-09-22",
+        "city": "Cedar Hill Lakes",
+        "state": "Missouri",
+        "latitude": 38.33,
+        "longitude": -90.6577
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 59728,
+        "start_date": "2024-07-09",
+        "city": "Westwood",
+        "state": "Indiana",
+        "latitude": 39.9192,
+        "longitude": -85.4169
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 56363,
+        "start_date": "2024-12-30",
+        "city": "Milford city ",
+        "state": "Connecticut",
+        "latitude": 41.2255,
+        "longitude": -73.0625
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 68866,
+        "start_date": "2025-03-08",
+        "city": "Bear Creek Ranch",
+        "state": "Texas",
+        "latitude": 32.5594,
+        "longitude": -96.7643
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 67142,
+        "start_date": "2025-02-20",
+        "city": "Walls",
+        "state": "Mississippi",
+        "latitude": 34.9257,
+        "longitude": -90.1604
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 69276,
+        "start_date": "2024-10-03",
+        "city": "Ardmore",
+        "state": "Pennsylvania",
+        "latitude": 40.0033,
+        "longitude": -75.2947
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 54939,
+        "start_date": "2024-10-17",
+        "city": "Ridgefield Park",
+        "state": "New Jersey",
+        "latitude": 40.8543,
+        "longitude": -74.0201
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 38887,
+        "start_date": "2025-03-15",
+        "city": "Coopertown",
+        "state": "Tennessee",
+        "latitude": 36.4142,
+        "longitude": -86.9658
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 60776,
+        "start_date": "2024-12-19",
+        "city": "Peever Flats",
+        "state": "South Dakota",
+        "latitude": 45.5234,
+        "longitude": -96.9356
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 46325,
+        "start_date": "2024-10-23",
+        "city": "Geneseo",
+        "state": "Kansas",
+        "latitude": 38.517,
+        "longitude": -98.1545
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 67598,
+        "start_date": "2024-09-03",
+        "city": "Garretts Mill",
+        "state": "Maryland",
+        "latitude": 39.3534,
+        "longitude": -77.6892
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 48326,
+        "start_date": "2024-05-21",
+        "city": "Adel",
+        "state": "Georgia",
+        "latitude": 31.1264,
+        "longitude": -83.4229
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 46947,
+        "start_date": "2024-05-15",
+        "city": "Chapman",
+        "state": "Kansas",
+        "latitude": 38.9746,
+        "longitude": -97.0236
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 59756,
+        "start_date": "2024-12-30",
+        "city": "Clear Lake",
+        "state": "Illinois",
+        "latitude": 39.8139,
+        "longitude": -89.5682
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 64566,
+        "start_date": "2024-08-30",
+        "city": "Ahuimanu",
+        "state": "Hawaii",
+        "latitude": 21.4379,
+        "longitude": -157.8404
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 61706,
+        "start_date": "2025-01-25",
+        "city": "Newcastle",
+        "state": "Nebraska",
+        "latitude": 42.6524,
+        "longitude": -96.874
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 39020,
+        "start_date": "2024-06-15",
+        "city": "White Plains",
+        "state": "North Carolina",
+        "latitude": 36.4451,
+        "longitude": -80.6351
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 64150,
+        "start_date": "2025-01-26",
+        "city": "Pilot Knob",
+        "state": "Missouri",
+        "latitude": 37.6236,
+        "longitude": -90.6455
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 36283,
+        "start_date": "2024-09-21",
+        "city": "Elk Grove",
+        "state": "California",
+        "latitude": 38.4161,
+        "longitude": -121.3842
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 66078,
+        "start_date": "2025-03-29",
+        "city": "Bartlett",
+        "state": "Illinois",
+        "latitude": 41.9804,
+        "longitude": -88.2071
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 50317,
+        "start_date": "2025-02-13",
+        "city": "Madeira",
+        "state": "Ohio",
+        "latitude": 39.1856,
+        "longitude": -84.3734
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 66284,
+        "start_date": "2025-03-11",
+        "city": "Indianola",
+        "state": "Washington",
+        "latitude": 47.7564,
+        "longitude": -122.5158
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 39430,
+        "start_date": "2024-05-01",
+        "city": "Lincoln",
+        "state": "Iowa",
+        "latitude": 42.2627,
+        "longitude": -92.6923
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 43508,
+        "start_date": "2025-01-04",
+        "city": "Melba",
+        "state": "Idaho",
+        "latitude": 43.3726,
+        "longitude": -116.5322
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 44335,
+        "start_date": "2024-08-06",
+        "city": "Lakehills",
+        "state": "Texas",
+        "latitude": 29.6237,
+        "longitude": -98.9448
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 44239,
+        "start_date": "2024-06-07",
+        "city": "Rocky Gap",
+        "state": "Virginia",
+        "latitude": 37.2413,
+        "longitude": -81.1049
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 35100,
+        "start_date": "2024-05-26",
+        "city": "Fair Oaks",
+        "state": "Arkansas",
+        "latitude": 35.2488,
+        "longitude": -91.0319
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 39845,
+        "start_date": "2025-01-09",
+        "city": "Vermontville",
+        "state": "Michigan",
+        "latitude": 42.627,
+        "longitude": -85.0249
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 69412,
+        "start_date": "2024-07-05",
+        "city": "Lovettsville",
+        "state": "Virginia",
+        "latitude": 39.2731,
+        "longitude": -77.64
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 51857,
+        "start_date": "2024-12-03",
+        "city": "Prathersville",
+        "state": "Missouri",
+        "latitude": 39.3153,
+        "longitude": -94.2738
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 69227,
+        "start_date": "2024-04-26",
+        "city": "Milton",
+        "state": "Kansas",
+        "latitude": 37.4432,
+        "longitude": -97.7694
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 67753,
+        "start_date": "2024-10-26",
+        "city": "Sandy Hollow-Escondidas",
+        "state": "Texas",
+        "latitude": 27.9452,
+        "longitude": -97.8061
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 69567,
+        "start_date": "2025-03-11",
+        "city": "Emmetsburg",
+        "state": "Iowa",
+        "latitude": 43.1145,
+        "longitude": -94.68
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 38331,
+        "start_date": "2024-05-16",
+        "city": "Ross",
+        "state": "North Dakota",
+        "latitude": 48.3128,
+        "longitude": -102.5435
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 44679,
+        "start_date": "2024-06-12",
+        "city": "Scotch Meadows",
+        "state": "North Carolina",
+        "latitude": 34.689,
+        "longitude": -79.5179
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 67565,
+        "start_date": "2024-10-06",
+        "city": "Johnston",
+        "state": "South Carolina",
+        "latitude": 33.8328,
+        "longitude": -81.8051
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 69479,
+        "start_date": "2024-04-26",
+        "city": "Jackson",
+        "state": "South Carolina",
+        "latitude": 33.3283,
+        "longitude": -81.7925
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 63152,
+        "start_date": "2024-11-10",
+        "city": "Pahrump",
+        "state": "Nevada",
+        "latitude": 36.2235,
+        "longitude": -115.9974
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 51059,
+        "start_date": "2024-11-17",
+        "city": "Ionia",
+        "state": "Iowa",
+        "latitude": 43.0359,
+        "longitude": -92.4584
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 36413,
+        "start_date": "2024-12-14",
+        "city": "Clyman",
+        "state": "Wisconsin",
+        "latitude": 43.3116,
+        "longitude": -88.7232
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 45196,
+        "start_date": "2025-04-22",
+        "city": "Meadow",
+        "state": "Texas",
+        "latitude": 33.3377,
+        "longitude": -102.2058
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 36221,
+        "start_date": "2025-04-08",
+        "city": "Homestead Base",
+        "state": "Florida",
+        "latitude": 25.4936,
+        "longitude": -80.391
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 65092,
+        "start_date": "2024-08-16",
+        "city": "Orion",
+        "state": "Illinois",
+        "latitude": 41.3514,
+        "longitude": -90.3762
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 62818,
+        "start_date": "2025-03-10",
+        "city": "Eubank",
+        "state": "Kentucky",
+        "latitude": 37.2799,
+        "longitude": -84.6541
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 47749,
+        "start_date": "2024-12-01",
+        "city": "Potter Valley",
+        "state": "California",
+        "latitude": 39.319,
+        "longitude": -123.1122
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 36029,
+        "start_date": "2024-11-16",
+        "city": "La Madera",
+        "state": "New Mexico",
+        "latitude": 35.2345,
+        "longitude": -106.334
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 38075,
+        "start_date": "2024-11-02",
+        "city": "Imperial",
+        "state": "Missouri",
+        "latitude": 38.3673,
+        "longitude": -90.3705
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 53013,
+        "start_date": "2024-11-26",
+        "city": "Sand Fork",
+        "state": "West Virginia",
+        "latitude": 38.9154,
+        "longitude": -80.7477
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 63776,
+        "start_date": "2025-02-09",
+        "city": "Passaic",
+        "state": "Missouri",
+        "latitude": 38.322,
+        "longitude": -94.3486
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 61777,
+        "start_date": "2025-01-23",
+        "city": "Camden-on-Gauley",
+        "state": "West Virginia",
+        "latitude": 38.3686,
+        "longitude": -80.5973
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 65120,
+        "start_date": "2024-12-25",
+        "city": "Tabiona",
+        "state": "Utah",
+        "latitude": 40.3544,
+        "longitude": -110.7096
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 46524,
+        "start_date": "2024-05-11",
+        "city": "Vinegar Bend",
+        "state": "Alabama",
+        "latitude": 31.2594,
+        "longitude": -88.3712
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 60187,
+        "start_date": "2024-07-01",
+        "city": "Quemado",
+        "state": "New Mexico",
+        "latitude": 34.3414,
+        "longitude": -108.506
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 39437,
+        "start_date": "2024-05-03",
+        "city": "Tuppers Plains",
+        "state": "Ohio",
+        "latitude": 39.1726,
+        "longitude": -81.8466
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 66623,
+        "start_date": "2025-03-31",
+        "city": "Dillon",
+        "state": "Montana",
+        "latitude": 45.218,
+        "longitude": -112.6345
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 53934,
+        "start_date": "2024-12-08",
+        "city": "Wellsville",
+        "state": "Utah",
+        "latitude": 41.6223,
+        "longitude": -111.943
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 36950,
+        "start_date": "2024-09-16",
+        "city": "Iuka",
+        "state": "Illinois",
+        "latitude": 38.6181,
+        "longitude": -88.7881
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 59711,
+        "start_date": "2024-11-22",
+        "city": "Riviera",
+        "state": "Texas",
+        "latitude": 27.2993,
+        "longitude": -97.7997
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 67235,
+        "start_date": "2024-10-13",
+        "city": "Pacific Beach",
+        "state": "Washington",
+        "latitude": 47.2151,
+        "longitude": -124.1967
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 41855,
+        "start_date": "2024-06-04",
+        "city": "White Swan",
+        "state": "Washington",
+        "latitude": 46.377,
+        "longitude": -120.7382
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 37944,
+        "start_date": "2024-05-23",
+        "city": "Seconsett Island",
+        "state": "Massachusetts",
+        "latitude": 41.5662,
+        "longitude": -70.5123
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 62824,
+        "start_date": "2024-11-05",
+        "city": "Spencer",
+        "state": "West Virginia",
+        "latitude": 38.8024,
+        "longitude": -81.3531
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 68845,
+        "start_date": "2024-12-29",
+        "city": "Carbondale",
+        "state": "Colorado",
+        "latitude": 39.3949,
+        "longitude": -107.2148
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 42770,
+        "start_date": "2024-12-31",
+        "city": "Victoria",
+        "state": "Minnesota",
+        "latitude": 44.8634,
+        "longitude": -93.6585
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 37056,
+        "start_date": "2024-08-08",
+        "city": "Darmstadt",
+        "state": "Indiana",
+        "latitude": 38.0938,
+        "longitude": -87.5793
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 50476,
+        "start_date": "2025-04-15",
+        "city": "Caddo Mills",
+        "state": "Texas",
+        "latitude": 33.0504,
+        "longitude": -96.2279
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 56527,
+        "start_date": "2024-05-21",
+        "city": "Edom",
+        "state": "Texas",
+        "latitude": 32.3743,
+        "longitude": -95.6099
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 51088,
+        "start_date": "2024-06-23",
+        "city": "Crookston",
+        "state": "Minnesota",
+        "latitude": 47.7747,
+        "longitude": -96.6062
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 63693,
+        "start_date": "2024-06-05",
+        "city": "Nelson",
+        "state": "Georgia",
+        "latitude": 34.3789,
+        "longitude": -84.3707
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 52162,
+        "start_date": "2025-01-23",
+        "city": "Hancock",
+        "state": "Michigan",
+        "latitude": 47.1367,
+        "longitude": -88.5979
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 66947,
+        "start_date": "2024-10-09",
+        "city": "Scenic",
+        "state": "Arizona",
+        "latitude": 36.793,
+        "longitude": -114.0151
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 45756,
+        "start_date": "2024-06-24",
+        "city": "Urbana",
+        "state": "Indiana",
+        "latitude": 40.8984,
+        "longitude": -85.7928
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 55831,
+        "start_date": "2025-02-28",
+        "city": "Mishicot",
+        "state": "Wisconsin",
+        "latitude": 44.2303,
+        "longitude": -87.6423
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 57782,
+        "start_date": "2024-06-25",
+        "city": "Mechanicsville",
+        "state": "Maryland",
+        "latitude": 38.4355,
+        "longitude": -76.7424
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 47638,
+        "start_date": "2025-01-23",
+        "city": "Eldred",
+        "state": "Illinois",
+        "latitude": 39.2862,
+        "longitude": -90.5538
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 40326,
+        "start_date": "2024-05-25",
+        "city": "Dillonvale",
+        "state": "Ohio",
+        "latitude": 39.2173,
+        "longitude": -84.4031
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 38751,
+        "start_date": "2024-07-13",
+        "city": "Pomeroy",
+        "state": "Washington",
+        "latitude": 46.4738,
+        "longitude": -117.5964
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 53963,
+        "start_date": "2024-09-22",
+        "city": "New Site",
+        "state": "Mississippi",
+        "latitude": 34.5553,
+        "longitude": -88.4153
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 43451,
+        "start_date": "2024-09-25",
+        "city": "Redway",
+        "state": "California",
+        "latitude": 40.1208,
+        "longitude": -123.822
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 45547,
+        "start_date": "2025-04-16",
+        "city": "Lakeside",
+        "state": "Oregon",
+        "latitude": 43.5795,
+        "longitude": -124.1733
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 36704,
+        "start_date": "2024-12-07",
+        "city": "Iroquois",
+        "state": "Illinois",
+        "latitude": 40.8288,
+        "longitude": -87.5843
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 64569,
+        "start_date": "2025-03-22",
+        "city": "Fruitland",
+        "state": "New Mexico",
+        "latitude": 36.7432,
+        "longitude": -108.3951
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 64266,
+        "start_date": "2024-06-04",
+        "city": "Rainbow Park",
+        "state": "Florida",
+        "latitude": 29.1654,
+        "longitude": -82.364
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 49325,
+        "start_date": "2025-02-25",
+        "city": "Brices Creek",
+        "state": "North Carolina",
+        "latitude": 35.0505,
+        "longitude": -77.0844
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 49713,
+        "start_date": "2025-02-18",
+        "city": "Cedar Point",
+        "state": "Texas",
+        "latitude": 30.7975,
+        "longitude": -95.0749
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 62059,
+        "start_date": "2024-09-03",
+        "city": "Cordes Lakes",
+        "state": "Arizona",
+        "latitude": 34.3103,
+        "longitude": -112.1073
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 42428,
+        "start_date": "2025-04-04",
+        "city": "Gladeville",
+        "state": "Tennessee",
+        "latitude": 36.1158,
+        "longitude": -86.4316
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 40052,
+        "start_date": "2024-07-29",
+        "city": "Cates",
+        "state": "Indiana",
+        "latitude": 39.9967,
+        "longitude": -87.3378
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 51903,
+        "start_date": "2025-02-11",
+        "city": "Loma",
+        "state": "Montana",
+        "latitude": 47.9511,
+        "longitude": -110.4887
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 57966,
+        "start_date": "2025-01-28",
+        "city": "Strausstown",
+        "state": "Pennsylvania",
+        "latitude": 40.4913,
+        "longitude": -76.1821
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 50253,
+        "start_date": "2024-10-14",
+        "city": "Mud Bay",
+        "state": "Alaska",
+        "latitude": 59.1518,
+        "longitude": -135.3585
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 59798,
+        "start_date": "2025-01-20",
+        "city": "Mount Zion",
+        "state": "Illinois",
+        "latitude": 39.7793,
+        "longitude": -88.8834
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 37195,
+        "start_date": "2024-05-27",
+        "city": "Parmele",
+        "state": "North Carolina",
+        "latitude": 35.8181,
+        "longitude": -77.3143
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 49520,
+        "start_date": "2024-09-09",
+        "city": "Cabery",
+        "state": "Illinois",
+        "latitude": 40.9958,
+        "longitude": -88.2037
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 54390,
+        "start_date": "2024-06-06",
+        "city": "Archer",
+        "state": "Florida",
+        "latitude": 29.54,
+        "longitude": -82.5186
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 60467,
+        "start_date": "2024-07-04",
+        "city": "Lowrys",
+        "state": "South Carolina",
+        "latitude": 34.804,
+        "longitude": -81.2372
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 40228,
+        "start_date": "2024-06-28",
+        "city": "Verplanck",
+        "state": "New York",
+        "latitude": 41.2552,
+        "longitude": -73.9621
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 49862,
+        "start_date": "2025-02-10",
+        "city": "Ghent",
+        "state": "Minnesota",
+        "latitude": 44.5116,
+        "longitude": -95.8926
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 49778,
+        "start_date": "2024-09-14",
+        "city": "Coronado",
+        "state": "California",
+        "latitude": 32.6649,
+        "longitude": -117.1604
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 58559,
+        "start_date": "2024-10-23",
+        "city": "Round Lake",
+        "state": "Illinois",
+        "latitude": 42.3435,
+        "longitude": -88.1059
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 61859,
+        "start_date": "2024-07-25",
+        "city": "Centertown",
+        "state": "Kentucky",
+        "latitude": 37.4177,
+        "longitude": -86.9959
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 53531,
+        "start_date": "2025-03-05",
+        "city": "Wilkshire Hills",
+        "state": "Ohio",
+        "latitude": 40.636,
+        "longitude": -81.4313
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 44120,
+        "start_date": "2024-05-26",
+        "city": "East Gillespie",
+        "state": "Illinois",
+        "latitude": 39.1378,
+        "longitude": -89.8127
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 68209,
+        "start_date": "2024-09-19",
+        "city": "Cyrus",
+        "state": "Minnesota",
+        "latitude": 45.6147,
+        "longitude": -95.7381
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 51334,
+        "start_date": "2024-10-07",
+        "city": "Big Piney",
+        "state": "Wyoming",
+        "latitude": 42.5401,
+        "longitude": -110.1193
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 45785,
+        "start_date": "2025-04-14",
+        "city": "Odessa",
+        "state": "Missouri",
+        "latitude": 38.9988,
+        "longitude": -93.9666
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 54458,
+        "start_date": "2024-06-07",
+        "city": "Gothenburg",
+        "state": "Nebraska",
+        "latitude": 40.9242,
+        "longitude": -100.154
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 58884,
+        "start_date": "2025-02-16",
+        "city": "Mulat",
+        "state": "Florida",
+        "latitude": 30.5595,
+        "longitude": -87.1297
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 57351,
+        "start_date": "2024-06-01",
+        "city": "St. Matthews",
+        "state": "Kentucky",
+        "latitude": 38.2497,
+        "longitude": -85.6384
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 39656,
+        "start_date": "2025-02-20",
+        "city": "Perkins",
+        "state": "Missouri",
+        "latitude": 37.0942,
+        "longitude": -89.7747
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 54862,
+        "start_date": "2024-09-14",
+        "city": "Clifton Gardens",
+        "state": "New York",
+        "latitude": 42.8474,
+        "longitude": -73.7838
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 62426,
+        "start_date": "2024-05-22",
+        "city": "Brock",
+        "state": "Nebraska",
+        "latitude": 40.4804,
+        "longitude": -95.9601
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 36506,
+        "start_date": "2024-08-21",
+        "city": "Keota",
+        "state": "Oklahoma",
+        "latitude": 35.2569,
+        "longitude": -94.9226
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 38150,
+        "start_date": "2024-06-25",
+        "city": "Coachella",
+        "state": "California",
+        "latitude": 33.6905,
+        "longitude": -116.143
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 60914,
+        "start_date": "2025-02-11",
+        "city": "Old Green",
+        "state": "Oklahoma",
+        "latitude": 35.9844,
+        "longitude": -94.6039
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 61607,
+        "start_date": "2024-11-14",
+        "city": "Argyle",
+        "state": "Iowa",
+        "latitude": 40.5359,
+        "longitude": -91.5678
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 60123,
+        "start_date": "2024-08-25",
+        "city": "Brunswick",
+        "state": "Ohio",
+        "latitude": 41.2465,
+        "longitude": -81.8198
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 52831,
+        "start_date": "2025-02-10",
+        "city": "Glendora",
+        "state": "New Jersey",
+        "latitude": 39.8405,
+        "longitude": -75.0677
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 68203,
+        "start_date": "2024-05-26",
+        "city": "Red Lion",
+        "state": "Pennsylvania",
+        "latitude": 39.8986,
+        "longitude": -76.6078
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 63182,
+        "start_date": "2025-02-21",
+        "city": "Viburnum",
+        "state": "Missouri",
+        "latitude": 37.7149,
+        "longitude": -91.1295
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 67241,
+        "start_date": "2024-07-09",
+        "city": "Watkins Glen",
+        "state": "New York",
+        "latitude": 42.3801,
+        "longitude": -76.8673
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 67556,
+        "start_date": "2024-06-10",
+        "city": "Four Lakes",
+        "state": "Washington",
+        "latitude": 47.5576,
+        "longitude": -117.5818
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 49910,
+        "start_date": "2024-08-22",
+        "city": "Nahunta",
+        "state": "Georgia",
+        "latitude": 31.2065,
+        "longitude": -81.9814
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 68250,
+        "start_date": "2024-07-21",
+        "city": "Jericho",
+        "state": "New York",
+        "latitude": 40.7875,
+        "longitude": -73.5416
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 65231,
+        "start_date": "2024-05-26",
+        "city": "Lynn",
+        "state": "Indiana",
+        "latitude": 40.0488,
+        "longitude": -84.9424
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 68079,
+        "start_date": "2024-10-21",
+        "city": "Fort Hill",
+        "state": "Oregon",
+        "latitude": 45.067,
+        "longitude": -123.5605
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 49882,
+        "start_date": "2025-04-06",
+        "city": "Ruth",
+        "state": "California",
+        "latitude": 40.2943,
+        "longitude": -123.3483
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 65257,
+        "start_date": "2024-12-16",
+        "city": "Howard",
+        "state": "Colorado",
+        "latitude": 38.4098,
+        "longitude": -105.8424
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 61258,
+        "start_date": "2025-01-10",
+        "city": "Sibley",
+        "state": "North Dakota",
+        "latitude": 47.2188,
+        "longitude": -97.9654
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 47879,
+        "start_date": "2024-11-26",
+        "city": "Chinese Camp",
+        "state": "California",
+        "latitude": 37.8702,
+        "longitude": -120.4443
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 47762,
+        "start_date": "2024-05-23",
+        "city": "Glenburn",
+        "state": "North Dakota",
+        "latitude": 48.5136,
+        "longitude": -101.2211
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 67204,
+        "start_date": "2024-06-07",
+        "city": "Manzano",
+        "state": "New Mexico",
+        "latitude": 34.6437,
+        "longitude": -106.3671
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 37854,
+        "start_date": "2024-10-16",
+        "city": "Chuathbaluk",
+        "state": "Alaska",
+        "latitude": 61.5746,
+        "longitude": -159.2489
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 45891,
+        "start_date": "2025-01-10",
+        "city": "Gahanna",
+        "state": "Ohio",
+        "latitude": 40.0251,
+        "longitude": -82.8637
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 41541,
+        "start_date": "2024-06-07",
+        "city": "Governors Club",
+        "state": "North Carolina",
+        "latitude": 35.8437,
+        "longitude": -79.0454
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 50583,
+        "start_date": "2025-03-26",
+        "city": "Adrian",
+        "state": "Texas",
+        "latitude": 35.2741,
+        "longitude": -102.6672
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 48572,
+        "start_date": "2024-10-19",
+        "city": "Nelliston",
+        "state": "New York",
+        "latitude": 42.9318,
+        "longitude": -74.6099
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 49105,
+        "start_date": "2024-07-14",
+        "city": "Rivereno",
+        "state": "Texas",
+        "latitude": 26.3052,
+        "longitude": -98.6398
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 67188,
+        "start_date": "2024-08-05",
+        "city": "Garland",
+        "state": "North Carolina",
+        "latitude": 34.7859,
+        "longitude": -78.3947
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 35852,
+        "start_date": "2024-08-06",
+        "city": "Teton",
+        "state": "Idaho",
+        "latitude": 43.8871,
+        "longitude": -111.6723
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 39554,
+        "start_date": "2024-05-21",
+        "city": "Northwest Harwich",
+        "state": "Massachusetts",
+        "latitude": 41.6917,
+        "longitude": -70.1026
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 44206,
+        "start_date": "2024-09-28",
+        "city": "Drytown",
+        "state": "California",
+        "latitude": 38.4397,
+        "longitude": -120.8587
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 55540,
+        "start_date": "2024-07-25",
+        "city": "West Union",
+        "state": "West Virginia",
+        "latitude": 39.2963,
+        "longitude": -80.7751
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 60502,
+        "start_date": "2024-04-27",
+        "city": "Strasburg",
+        "state": "Virginia",
+        "latitude": 38.9961,
+        "longitude": -78.3549
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 46879,
+        "start_date": "2024-10-11",
+        "city": "Jefferson",
+        "state": "South Dakota",
+        "latitude": 42.6043,
+        "longitude": -96.5661
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 58319,
+        "start_date": "2025-01-08",
+        "city": "Delphos",
+        "state": "Kansas",
+        "latitude": 39.2744,
+        "longitude": -97.7653
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 61283,
+        "start_date": "2024-07-24",
+        "city": "Agua Fria",
+        "state": "New Mexico",
+        "latitude": 35.6615,
+        "longitude": -106.0149
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 62775,
+        "start_date": "2025-01-14",
+        "city": "Warr Acres",
+        "state": "Oklahoma",
+        "latitude": 35.5285,
+        "longitude": -97.6182
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 50240,
+        "start_date": "2024-06-05",
+        "city": "Watford City",
+        "state": "North Dakota",
+        "latitude": 47.8027,
+        "longitude": -103.2678
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 59264,
+        "start_date": "2024-05-21",
+        "city": "McConnellstown",
+        "state": "Pennsylvania",
+        "latitude": 40.4643,
+        "longitude": -78.067
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 48974,
+        "start_date": "2024-06-09",
+        "city": "Kings Mountain",
+        "state": "North Carolina",
+        "latitude": 35.2349,
+        "longitude": -81.3501
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 62502,
+        "start_date": "2024-09-21",
+        "city": "Truxton",
+        "state": "Arizona",
+        "latitude": 35.487,
+        "longitude": -113.5607
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 60535,
+        "start_date": "2024-12-03",
+        "city": "Troy",
+        "state": "South Carolina",
+        "latitude": 33.988,
+        "longitude": -82.2974
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 37853,
+        "start_date": "2024-05-21",
+        "city": "San Pablo",
+        "state": "New Mexico",
+        "latitude": 32.2507,
+        "longitude": -106.7626
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 67205,
+        "start_date": "2024-11-20",
+        "city": "St. Johns",
+        "state": "Ohio",
+        "latitude": 40.5558,
+        "longitude": -84.0796
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 41475,
+        "start_date": "2024-09-20",
+        "city": "Lawson",
+        "state": "Arkansas",
+        "latitude": 33.1999,
+        "longitude": -92.4878
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 52986,
+        "start_date": "2024-06-29",
+        "city": "Longton",
+        "state": "Kansas",
+        "latitude": 37.3779,
+        "longitude": -96.0821
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 51513,
+        "start_date": "2024-11-14",
+        "city": "Donegal",
+        "state": "Pennsylvania",
+        "latitude": 40.112,
+        "longitude": -79.3808
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 55030,
+        "start_date": "2025-01-04",
+        "city": "Mountain View",
+        "state": "Wyoming",
+        "latitude": 41.2724,
+        "longitude": -110.3342
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 53867,
+        "start_date": "2024-08-24",
+        "city": "Vienna Bend",
+        "state": "Louisiana",
+        "latitude": 31.7372,
+        "longitude": -93.0343
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 62130,
+        "start_date": "2025-03-18",
+        "city": "Pencil Bluff",
+        "state": "Arkansas",
+        "latitude": 34.6299,
+        "longitude": -93.735
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 69311,
+        "start_date": "2024-11-20",
+        "city": "Alto",
+        "state": "Texas",
+        "latitude": 31.6509,
+        "longitude": -95.0708
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 54849,
+        "start_date": "2024-06-04",
+        "city": "Woodland",
+        "state": "Washington",
+        "latitude": 45.9145,
+        "longitude": -122.7505
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 55879,
+        "start_date": "2024-05-05",
+        "city": "Plain City",
+        "state": "Ohio",
+        "latitude": 40.1066,
+        "longitude": -83.2686
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 52247,
+        "start_date": "2025-01-16",
+        "city": "Newfield",
+        "state": "New Jersey",
+        "latitude": 39.5484,
+        "longitude": -75.0167
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 56015,
+        "start_date": "2025-04-02",
+        "city": "Stark",
+        "state": "Kansas",
+        "latitude": 37.6898,
+        "longitude": -95.1441
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 62885,
+        "start_date": "2024-04-26",
+        "city": "Waterman",
+        "state": "Illinois",
+        "latitude": 41.7683,
+        "longitude": -88.7659
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 47696,
+        "start_date": "2024-05-15",
+        "city": "North Grosvenor Dale",
+        "state": "Connecticut",
+        "latitude": 41.9862,
+        "longitude": -71.9033
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 56265,
+        "start_date": "2024-05-04",
+        "city": "Middlesex",
+        "state": "New Jersey",
+        "latitude": 40.5744,
+        "longitude": -74.5011
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 57513,
+        "start_date": "2024-07-15",
+        "city": "Rocky Ripple",
+        "state": "Indiana",
+        "latitude": 39.8484,
+        "longitude": -86.1731
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 41665,
+        "start_date": "2024-11-15",
+        "city": "East New Market",
+        "state": "Maryland",
+        "latitude": 38.597,
+        "longitude": -75.9232
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 51797,
+        "start_date": "2024-10-23",
+        "city": "Austin",
+        "state": "Nevada",
+        "latitude": 39.4976,
+        "longitude": -117.074
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 61974,
+        "start_date": "2024-10-29",
+        "city": "Minford",
+        "state": "Ohio",
+        "latitude": 38.8618,
+        "longitude": -82.8552
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 61909,
+        "start_date": "2024-08-22",
+        "city": "Crab Orchard",
+        "state": "Kentucky",
+        "latitude": 37.4627,
+        "longitude": -84.5067
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 35607,
+        "start_date": "2024-07-17",
+        "city": "Leechburg",
+        "state": "Pennsylvania",
+        "latitude": 40.6302,
+        "longitude": -79.6022
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 49390,
+        "start_date": "2024-07-06",
+        "city": "Jekyll Island",
+        "state": "Georgia",
+        "latitude": 31.0732,
+        "longitude": -81.4206
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 52264,
+        "start_date": "2024-08-04",
+        "city": "Needville",
+        "state": "Texas",
+        "latitude": 29.3957,
+        "longitude": -95.8386
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 44016,
+        "start_date": "2025-02-17",
+        "city": "Poole",
+        "state": "Kentucky",
+        "latitude": 37.6392,
+        "longitude": -87.6447
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 48390,
+        "start_date": "2024-08-23",
+        "city": "Rowley",
+        "state": "Iowa",
+        "latitude": 42.3685,
+        "longitude": -91.8443
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 44998,
+        "start_date": "2024-04-29",
+        "city": "Cashmere",
+        "state": "Washington",
+        "latitude": 47.5175,
+        "longitude": -120.467
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 35827,
+        "start_date": "2024-12-29",
+        "city": "Chenequa",
+        "state": "Wisconsin",
+        "latitude": 43.1229,
+        "longitude": -88.3838
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 65759,
+        "start_date": "2025-01-13",
+        "city": "Green Bay",
+        "state": "Wisconsin",
+        "latitude": 44.5148,
+        "longitude": -87.9895
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 46858,
+        "start_date": "2025-04-15",
+        "city": "Oconomowoc Lake",
+        "state": "Wisconsin",
+        "latitude": 43.0975,
+        "longitude": -88.4521
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 58090,
+        "start_date": "2025-02-14",
+        "city": "Roseville",
+        "state": "Illinois",
+        "latitude": 40.7307,
+        "longitude": -90.6638
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 44105,
+        "start_date": "2024-10-02",
+        "city": "Silver Lake Colony",
+        "state": "South Dakota",
+        "latitude": 44.8657,
+        "longitude": -97.6084
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 41460,
+        "start_date": "2024-12-21",
+        "city": "Indian Springs",
+        "state": "Texas",
+        "latitude": 30.6879,
+        "longitude": -94.7449
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 68005,
+        "start_date": "2024-09-29",
+        "city": "New Carlisle",
+        "state": "Indiana",
+        "latitude": 41.7018,
+        "longitude": -86.4916
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 58044,
+        "start_date": "2024-09-04",
+        "city": "Mabank",
+        "state": "Texas",
+        "latitude": 32.3685,
+        "longitude": -96.1138
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 56472,
+        "start_date": "2025-03-03",
+        "city": "Merriam Woods",
+        "state": "Missouri",
+        "latitude": 36.7179,
+        "longitude": -93.1715
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 67203,
+        "start_date": "2024-10-16",
+        "city": "Elk Rapids",
+        "state": "Michigan",
+        "latitude": 44.8949,
+        "longitude": -85.4053
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 68734,
+        "start_date": "2024-06-01",
+        "city": "Lincoln Park",
+        "state": "Michigan",
+        "latitude": 42.2432,
+        "longitude": -83.1811
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 37678,
+        "start_date": "2024-12-10",
+        "city": "South Lead Hill",
+        "state": "Arkansas",
+        "latitude": 36.3956,
+        "longitude": -92.9063
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 39439,
+        "start_date": "2024-05-23",
+        "city": "Clyde Hill",
+        "state": "Washington",
+        "latitude": 47.6304,
+        "longitude": -122.218
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 63318,
+        "start_date": "2025-03-02",
+        "city": "Lead Hill",
+        "state": "Arkansas",
+        "latitude": 36.4137,
+        "longitude": -92.9067
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 65850,
+        "start_date": "2025-01-29",
+        "city": "Jonestown",
+        "state": "Texas",
+        "latitude": 30.4755,
+        "longitude": -97.9296
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 66425,
+        "start_date": "2025-03-09",
+        "city": "Lucan",
+        "state": "Minnesota",
+        "latitude": 44.41,
+        "longitude": -95.4134
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 39616,
+        "start_date": "2025-04-08",
+        "city": "South Riding",
+        "state": "Virginia",
+        "latitude": 38.912,
+        "longitude": -77.5132
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 51029,
+        "start_date": "2024-07-09",
+        "city": "Russellville",
+        "state": "Missouri",
+        "latitude": 38.5127,
+        "longitude": -92.4385
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 43575,
+        "start_date": "2024-08-29",
+        "city": "Glasco",
+        "state": "New York",
+        "latitude": 42.0454,
+        "longitude": -73.9477
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 56188,
+        "start_date": "2025-01-15",
+        "city": "Breckenridge",
+        "state": "Michigan",
+        "latitude": 43.4074,
+        "longitude": -84.4784
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 35803,
+        "start_date": "2024-07-05",
+        "city": "Brazil",
+        "state": "Indiana",
+        "latitude": 39.5226,
+        "longitude": -87.124
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 60652,
+        "start_date": "2025-01-01",
+        "city": "Dunean",
+        "state": "South Carolina",
+        "latitude": 34.8203,
+        "longitude": -82.4225
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 40005,
+        "start_date": "2024-12-06",
+        "city": "Johns Creek",
+        "state": "Georgia",
+        "latitude": 34.0333,
+        "longitude": -84.2027
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 58047,
+        "start_date": "2025-03-12",
+        "city": "Pocono Woodland Lakes",
+        "state": "Pennsylvania",
+        "latitude": 41.3225,
+        "longitude": -74.8902
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 44839,
+        "start_date": "2025-01-03",
+        "city": "Bryson",
+        "state": "Texas",
+        "latitude": 33.1636,
+        "longitude": -98.3894
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 62440,
+        "start_date": "2025-01-16",
+        "city": "Montrose",
+        "state": "Michigan",
+        "latitude": 43.1765,
+        "longitude": -83.8932
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 45731,
+        "start_date": "2024-09-28",
+        "city": "Samsula-Spruce Creek",
+        "state": "Florida",
+        "latitude": 29.0484,
+        "longitude": -81.0628
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 42046,
+        "start_date": "2025-03-04",
+        "city": "Pelkie",
+        "state": "Michigan",
+        "latitude": 46.8124,
+        "longitude": -88.6373
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 49889,
+        "start_date": "2024-05-10",
+        "city": "Winchester",
+        "state": "Arkansas",
+        "latitude": 33.7741,
+        "longitude": -91.4737
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 63261,
+        "start_date": "2025-01-14",
+        "city": "Bridger",
+        "state": "South Dakota",
+        "latitude": 44.5421,
+        "longitude": -101.9136
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 40940,
+        "start_date": "2024-06-01",
+        "city": "Keams Canyon",
+        "state": "Arizona",
+        "latitude": 35.8229,
+        "longitude": -110.2011
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 54264,
+        "start_date": "2024-08-17",
+        "city": "West Loch Estate",
+        "state": "Hawaii",
+        "latitude": 21.3617,
+        "longitude": -158.0246
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 57684,
+        "start_date": "2024-11-17",
+        "city": "Copeland",
+        "state": "Kansas",
+        "latitude": 37.5405,
+        "longitude": -100.6288
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 35547,
+        "start_date": "2025-01-27",
+        "city": "New Riegel",
+        "state": "Ohio",
+        "latitude": 41.052,
+        "longitude": -83.3191
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 37474,
+        "start_date": "2025-01-13",
+        "city": "Wall",
+        "state": "South Dakota",
+        "latitude": 43.9914,
+        "longitude": -102.2422
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 43840,
+        "start_date": "2024-06-28",
+        "city": "Twin Hills Colony",
+        "state": "Montana",
+        "latitude": 48.0168,
+        "longitude": -111.0698
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 43075,
+        "start_date": "2024-06-12",
+        "city": "Duquesne",
+        "state": "Pennsylvania",
+        "latitude": 40.3732,
+        "longitude": -79.8502
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 47842,
+        "start_date": "2025-03-03",
+        "city": "Clayton",
+        "state": "New Jersey",
+        "latitude": 39.6627,
+        "longitude": -75.0782
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 37590,
+        "start_date": "2024-10-18",
+        "city": "Longford",
+        "state": "Kansas",
+        "latitude": 39.1721,
+        "longitude": -97.329
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 57252,
+        "start_date": "2024-07-17",
+        "city": "Lakeside",
+        "state": "Colorado",
+        "latitude": 39.7802,
+        "longitude": -105.0579
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 38410,
+        "start_date": "2024-05-02",
+        "city": "Whitetail",
+        "state": "Montana",
+        "latitude": 48.8966,
+        "longitude": -105.1619
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 63121,
+        "start_date": "2024-10-22",
+        "city": "Union Hill",
+        "state": "Illinois",
+        "latitude": 41.1086,
+        "longitude": -88.1463
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 40243,
+        "start_date": "2025-03-12",
+        "city": "Stoughton",
+        "state": "Wisconsin",
+        "latitude": 42.9237,
+        "longitude": -89.2225
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 60009,
+        "start_date": "2024-07-19",
+        "city": "Arcade",
+        "state": "Georgia",
+        "latitude": 34.0693,
+        "longitude": -83.5399
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 43643,
+        "start_date": "2024-06-28",
+        "city": "Venedocia",
+        "state": "Ohio",
+        "latitude": 40.785,
+        "longitude": -84.4559
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 58953,
+        "start_date": "2025-03-18",
+        "city": "Balfour",
+        "state": "North Dakota",
+        "latitude": 47.9509,
+        "longitude": -100.5343
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 35923,
+        "start_date": "2024-06-04",
+        "city": "Coplay",
+        "state": "Pennsylvania",
+        "latitude": 40.671,
+        "longitude": -75.4961
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 58624,
+        "start_date": "2024-05-17",
+        "city": "Madison",
+        "state": "California",
+        "latitude": 38.675,
+        "longitude": -121.9702
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 46420,
+        "start_date": "2024-11-25",
+        "city": "Pulaski",
+        "state": "Indiana",
+        "latitude": 40.9753,
+        "longitude": -86.6583
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 40962,
+        "start_date": "2024-09-25",
+        "city": "Novinger",
+        "state": "Missouri",
+        "latitude": 40.2341,
+        "longitude": -92.7066
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 37072,
+        "start_date": "2024-11-07",
+        "city": "Jump River",
+        "state": "Wisconsin",
+        "latitude": 45.3555,
+        "longitude": -90.7965
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 35603,
+        "start_date": "2024-12-03",
+        "city": "Penn Estates",
+        "state": "Pennsylvania",
+        "latitude": 41.0346,
+        "longitude": -75.2417
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 47912,
+        "start_date": "2024-11-03",
+        "city": "Pentwater",
+        "state": "Michigan",
+        "latitude": 43.7793,
+        "longitude": -86.4303
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 40935,
+        "start_date": "2025-02-03",
+        "city": "Newton",
+        "state": "Massachusetts",
+        "latitude": 42.3316,
+        "longitude": -71.2085
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 67204,
+        "start_date": "2024-10-02",
+        "city": "Bulls Gap",
+        "state": "Tennessee",
+        "latitude": 36.2615,
+        "longitude": -83.0788
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 36775,
+        "start_date": "2024-10-25",
+        "city": "Lower Grand Lagoon",
+        "state": "Florida",
+        "latitude": 30.1444,
+        "longitude": -85.7526
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 45053,
+        "start_date": "2025-01-05",
+        "city": "Rockwell Place",
+        "state": "Texas",
+        "latitude": 35.0422,
+        "longitude": -101.9084
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 35175,
+        "start_date": "2024-05-04",
+        "city": "Corozal",
+        "state": "Puerto Rico",
+        "latitude": 18.341,
+        "longitude": -66.3124
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 42149,
+        "start_date": "2024-08-01",
+        "city": "West Carthage",
+        "state": "New York",
+        "latitude": 43.973,
+        "longitude": -75.6219
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 67631,
+        "start_date": "2024-06-17",
+        "city": "Big Coppitt Key",
+        "state": "Florida",
+        "latitude": 24.5914,
+        "longitude": -81.6574
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 46421,
+        "start_date": "2025-01-11",
+        "city": "Amityville",
+        "state": "New York",
+        "latitude": 40.6696,
+        "longitude": -73.4156
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 38453,
+        "start_date": "2024-10-27",
+        "city": "Belle Plaine",
+        "state": "Iowa",
+        "latitude": 41.8954,
+        "longitude": -92.2751
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 38347,
+        "start_date": "2024-10-29",
+        "city": "Le Flore",
+        "state": "Oklahoma",
+        "latitude": 34.8981,
+        "longitude": -94.9772
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 45012,
+        "start_date": "2025-01-25",
+        "city": "Salineville",
+        "state": "Ohio",
+        "latitude": 40.6207,
+        "longitude": -80.8345
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 39369,
+        "start_date": "2024-07-15",
+        "city": "Bigfork",
+        "state": "Minnesota",
+        "latitude": 47.7473,
+        "longitude": -93.6525
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 40181,
+        "start_date": "2025-02-04",
+        "city": "Cascadia",
+        "state": "Oregon",
+        "latitude": 44.393,
+        "longitude": -122.5027
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 52661,
+        "start_date": "2024-10-27",
+        "city": "Devol",
+        "state": "Oklahoma",
+        "latitude": 34.1954,
+        "longitude": -98.5882
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 57772,
+        "start_date": "2025-02-23",
+        "city": "Chico",
+        "state": "California",
+        "latitude": 39.7578,
+        "longitude": -121.8161
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 47096,
+        "start_date": "2024-09-13",
+        "city": "Iliamna",
+        "state": "Alaska",
+        "latitude": 59.7957,
+        "longitude": -154.8698
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 52737,
+        "start_date": "2024-12-16",
+        "city": "North Sarasota",
+        "state": "Florida",
+        "latitude": 27.3592,
+        "longitude": -82.5213
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 54855,
+        "start_date": "2024-05-04",
+        "city": "Spry",
+        "state": "Pennsylvania",
+        "latitude": 39.9125,
+        "longitude": -76.6864
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 52419,
+        "start_date": "2024-07-22",
+        "city": "Venturia",
+        "state": "North Dakota",
+        "latitude": 45.9971,
+        "longitude": -99.5479
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 42435,
+        "start_date": "2024-07-28",
+        "city": "Sturgeon",
+        "state": "Missouri",
+        "latitude": 39.2344,
+        "longitude": -92.2824
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 46338,
+        "start_date": "2024-05-27",
+        "city": "Pluckemin",
+        "state": "New Jersey",
+        "latitude": 40.6454,
+        "longitude": -74.6355
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 38602,
+        "start_date": "2025-02-16",
+        "city": "Yorktown",
+        "state": "Texas",
+        "latitude": 28.9828,
+        "longitude": -97.5051
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 65710,
+        "start_date": "2024-12-25",
+        "city": "Bogard",
+        "state": "Missouri",
+        "latitude": 39.458,
+        "longitude": -93.5239
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 58500,
+        "start_date": "2024-11-28",
+        "city": "Newdale Colony",
+        "state": "South Dakota",
+        "latitude": 44.29,
+        "longitude": -96.5242
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 40357,
+        "start_date": "2024-07-12",
+        "city": "Santa Rosa",
+        "state": "New Mexico",
+        "latitude": 34.9361,
+        "longitude": -104.6769
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 62853,
+        "start_date": "2024-09-08",
+        "city": "Bridgman",
+        "state": "Michigan",
+        "latitude": 41.9396,
+        "longitude": -86.5652
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 69650,
+        "start_date": "2025-01-29",
+        "city": "Virginia Lakes",
+        "state": "California",
+        "latitude": 38.0486,
+        "longitude": -119.2555
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 68006,
+        "start_date": "2024-10-26",
+        "city": "El Paso",
+        "state": "Arkansas",
+        "latitude": 35.1153,
+        "longitude": -92.0812
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 44106,
+        "start_date": "2024-05-26",
+        "city": "Crowell",
+        "state": "Texas",
+        "latitude": 33.9839,
+        "longitude": -99.7241
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 48097,
+        "start_date": "2025-01-25",
+        "city": "Kensett",
+        "state": "Arkansas",
+        "latitude": 35.2354,
+        "longitude": -91.6708
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 61075,
+        "start_date": "2024-11-16",
+        "city": "Palo Seco",
+        "state": "Puerto Rico",
+        "latitude": 18.0093,
+        "longitude": -65.937
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 52371,
+        "start_date": "2024-09-20",
+        "city": "Etowah",
+        "state": "Oklahoma",
+        "latitude": 35.129,
+        "longitude": -97.1641
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 64602,
+        "start_date": "2024-10-05",
+        "city": "Quintana",
+        "state": "Texas",
+        "latitude": 28.9279,
+        "longitude": -95.3171
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 47897,
+        "start_date": "2024-09-24",
+        "city": "Grace",
+        "state": "Mississippi",
+        "latitude": 32.9915,
+        "longitude": -90.9569
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 60531,
+        "start_date": "2025-02-08",
+        "city": "Phillipsburg",
+        "state": "Missouri",
+        "latitude": 37.5525,
+        "longitude": -92.7871
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 52444,
+        "start_date": "2024-06-20",
+        "city": "Foster",
+        "state": "Missouri",
+        "latitude": 38.1664,
+        "longitude": -94.5079
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 64856,
+        "start_date": "2024-05-19",
+        "city": "Kenefick",
+        "state": "Texas",
+        "latitude": 30.1069,
+        "longitude": -94.8502
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 42435,
+        "start_date": "2025-02-18",
+        "city": "Etna Green",
+        "state": "Indiana",
+        "latitude": 41.2756,
+        "longitude": -86.0459
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 37754,
+        "start_date": "2024-08-14",
+        "city": "Marksboro",
+        "state": "New Jersey",
+        "latitude": 40.9811,
+        "longitude": -74.9082
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 49274,
+        "start_date": "2024-07-06",
+        "city": "San Antonito",
+        "state": "New Mexico",
+        "latitude": 35.1574,
+        "longitude": -106.3475
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 52545,
+        "start_date": "2024-07-13",
+        "city": "Magness",
+        "state": "Arkansas",
+        "latitude": 35.7031,
+        "longitude": -91.4822
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 49371,
+        "start_date": "2025-01-16",
+        "city": "Balmville",
+        "state": "New York",
+        "latitude": 41.5281,
+        "longitude": -74.0234
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 64311,
+        "start_date": "2024-07-31",
+        "city": "Broadlands",
+        "state": "Virginia",
+        "latitude": 39.0168,
+        "longitude": -77.5167
+    },
+    {
+        "title": "Math Teacher",
+        "description": "Responsible for teaching mathematics concepts to students at various levels.",
+        "salary": 62896,
+        "start_date": "2024-04-26",
+        "city": "Frazer",
+        "state": "Montana",
+        "latitude": 48.0532,
+        "longitude": -106.048
+    },
+    {
+        "title": "French Teacher",
+        "description": "Provides instruction in the French language and Francophone cultures.",
+        "salary": 55655,
+        "start_date": "2024-10-23",
+        "city": "Eleva",
+        "state": "Wisconsin",
+        "latitude": 44.5764,
+        "longitude": -91.4705
+    },
+    {
+        "title": "ELA Teacher",
+        "description": "Focuses on enhancing students' understanding of English language arts.",
+        "salary": 48300,
+        "start_date": "2025-02-02",
+        "city": "Coy",
+        "state": "Arkansas",
+        "latitude": 34.5405,
+        "longitude": -91.8713
+    },
+    {
+        "title": "Science Teacher",
+        "description": "Engages students with scientific concepts in areas such as biology, chemistry, and physics.",
+        "salary": 66641,
+        "start_date": "2024-10-19",
+        "city": "Emmett",
+        "state": "Idaho",
+        "latitude": 43.8693,
+        "longitude": -116.4916
+    },
+    {
+        "title": "Spanish Teacher",
+        "description": "Teaches Spanish language skills and Hispanic cultures.",
+        "salary": 68582,
+        "start_date": "2025-01-26",
+        "city": "Blue River",
+        "state": "Colorado",
+        "latitude": 39.4362,
+        "longitude": -106.035
+    },
+    {
+        "title": "History Teacher",
+        "description": "Educates students about historical events and their impact on the world.",
+        "salary": 41673,
+        "start_date": "2025-04-22",
+        "city": "Honey Hill",
+        "state": "Oklahoma",
+        "latitude": 35.7694,
+        "longitude": -94.5716
+    }
+]
+}
