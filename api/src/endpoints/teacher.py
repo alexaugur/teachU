@@ -107,9 +107,11 @@ def logout_user():
     return jsonify({"message": f"{token_type} token revoked successfully"}) , 200
 
 
-
+from dotenv import load_dotenv
+load_dotenv()
 import openai
-openai.api_key = "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"
+import os
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 from PyPDF2 import PdfReader
