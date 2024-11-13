@@ -31,7 +31,6 @@ Both the URL's are links to the backend. Having a separate URL for WEBSOCKETS is
 
 VITE_API_KEY and VITE_API_CLUSTER are both keys in order to connect to PUSHER, which is an external service that helps handle web sockets for us, instead of mangaging them internally. 
 
-See slack for sample 
 
 Our backend environment file has the following environmental variables:
 ```
@@ -58,10 +57,6 @@ The openAI api key is a key to make calls to Chat gpt.
 The 4 pusher variables are related to creating a pusher client in the server in order to manage web socket connections and maek real time messaging possible.
 
 ## Getting started (first time)
-
-Steps for setting up local development environment:
-(make sure to have .env file w/ up-to-date content)
-.env file shared in team Slack channel. Copy contents into .env file on your local machine. Ensure all updates are reflected in your local copy of the .env file.
 
 Backend:
 
