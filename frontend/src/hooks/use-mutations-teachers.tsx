@@ -16,7 +16,7 @@ function useMutationTeacherUser() {
       setTeacherUser(user as unknown as TeacherUser);
     } catch (error) {
       const errorObj = JSON.parse((error as Error).message);
-      console.log(errorObj.message)
+      
       if (errorObj.status === 400 && errorObj.message === "Invalid email or password") {
 
         toast({

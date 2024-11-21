@@ -54,6 +54,14 @@ def create_app(config_object=None):
     ssl=True
     )
 
+    with app.app_context():
+        from .models import (
+            Message, Teacher, TeacherProfile, School, SchoolProfile, JobPosting,
+            JobInfo, Question, Answer, Rubric, Score, Comment, Application,
+            SchoolAvailability, TeacherInterview, ApplicationCart, TokenBlocklist
+        )
+        db.create_all()
+
 
 
     # register bluepints
