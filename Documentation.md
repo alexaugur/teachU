@@ -770,8 +770,6 @@ Frontend: 54% (among files that are tested. Thus, our actual coverage is regreta
 
 Backend: 51% (overall). Our backend coverage is decent, and we are able to verify many of the core applications of our app work, such as user authentication, profile creations, job postings, applying to jobs, and more. However, we needed to be more thorough.
 
-Overall, we definitely feel short in our testing requirements as we should have prioritize it more and were trying to tackle this challenge with 1 less member than average.
-
 ### 8.3 Known Issues and Limitations
 - Authentication. Some schools and teachers can theoretically access each other's endpoints and data (using external systems like Postman)
 - One issue a user may encounter is slow fetches. The reason for our slow backend is because it is a free and accessible one that we chose to use. Thus, our job query is slow
@@ -785,7 +783,7 @@ Overall, we definitely feel short in our testing requirements as we should have 
 ## Deployment
 
 ### 9.1 Deployment Process
-Our frontend deploys to vercel, and our backend deploys to render. We have continous integrations tests that ensure that both our frontend(vite react) and our backend (flask python) can build, which runs on every pr to development and main. Given these tests pass, we push to our main branch, which is then continously deployed to our production environments. 
+Our frontend deploys to vercel, and our backend deploys to render.
 
 In order to deploy to the frontend, we run the command 
 ```

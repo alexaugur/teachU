@@ -57,6 +57,7 @@ The openAI api key is a key to make calls to Chat gpt.
 The 4 pusher variables are related to creating a pusher client in the server in order to manage web socket connections and maek real time messaging possible.
 
 ## Getting started (first time)
+To run the project locally, you need both a working PostgreSQL database and a Pusher Channel. The database link and Pusher app keys will both be added to the .env files. After that the following commands can be ran to start the app:
 
 Backend:
 
@@ -126,6 +127,6 @@ Frontend: Vercel
 Backend: Render
 
 # Production Link
-https://project-team-10.vercel.app/
+https://teach-u.vercel.app/
 
 
