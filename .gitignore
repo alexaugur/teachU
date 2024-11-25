@@ -1,10 +1,5 @@
-frontend/node_modules/
+node_modules/
 .next/
 .DS_STORE
 .env
 .vercel
-
-api/.env
-frontend/.env
-
-**/__pycache__/
