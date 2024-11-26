@@ -23,7 +23,6 @@ export default function SchoolInterviewList() {
   //   const [applicationType, setApplicationType] = useState("submitted");
 
   useEffect(() => {
-    console.log(schoolUser);
     if (schoolUser) {
       loadInterviews();
     }

@@ -105,14 +105,14 @@ const TeacherProfilePreview: React.FC<TeacherProfilePreviewProps> = ({
         {!isEditing ? (
           <Button variant="secondary" size="lg" onClick={editProfile}>
             <div className="flex flex-row space-x-2 justify-center items-center">
-              <img src="../../public/assets/icon-edit.svg"></img>
+              <img src="/assets/icon-edit.svg"></img>
               <div>Edit Profile</div>
             </div>
           </Button>
         ) : (
           <Button variant="secondary" size="lg" onClick={saveProfile}>
             <div className="flex flex-row space-x-2 justify-center items-center">
-              <img src="../../public/assets/icon-save.svg"></img>
+              <img src="/assets/icon-save.svg"></img>
               <div>Save Changes</div>
             </div>
           </Button>

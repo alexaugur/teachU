@@ -85,16 +85,16 @@ def test_create_answers(client, auth_headers_teachers):
     teacher_idxs = [1, 1, 2, 2]
     new_answer_id = 1
     for answer_data in answers:
-        print('itr')
+        #print('itr')
         response = client.post("/answers", json=answer_data, headers=auth_headers_teachers[teacher_idxs[new_answer_id - 1]])
         response_data = response.get_json()
-        print(f"Status Code: {response.status_code}, Message: {response_data.get('message', 'No message available')}")
+        #print(f"Status Code: {response.status_code}, Message: {response_data.get('message', 'No message available')}")
         assert response.status_code == 201
         assert response.get_json()["message"] == "Answer created"
         
         response = client.get(f"/answers/answer/{new_answer_id}", headers=auth_headers_teachers[teacher_idxs[new_answer_id - 1]])
         response_data = response.get_json()
-        print(f"Status Code: {response.status_code}, Message: {response_data.get('message', 'No message available')}")
+        #print(f"Status Code: {response.status_code}, Message: {response_data.get('message', 'No message available')}")
         assert response.status_code == 200
 
         answer_data_response = response.get_json()
@@ -138,14 +138,14 @@ def test_get_answers_by_question(client, auth_headers_schools):
     response = client.get(f"/answers/question/{question_id}", headers=auth_headers_schools[0])
     assert response.status_code == 200
     data = response.get_json()
-    print(f"Returned answers for question ID {question_id}: {data}")
+    #print(f"Returned answers for question ID {question_id}: {data}")
 
     # Call the endpoint for question ID 5
     question_id = 5
     response = client.get(f"/answers/question/{question_id}", headers=auth_headers_schools[0])
     assert response.status_code == 200
     data = response.get_json()
-    print(f"Returned answers for question ID {question_id}: {data}")
+    #print(f"Returned answers for question ID {question_id}: {data}")
 
 # Test getting answers by application
 def test_get_answers_by_application(client, auth_headers_teachers):
@@ -154,10 +154,10 @@ def test_get_answers_by_application(client, auth_headers_teachers):
     response = client.get(f"/answers/application/{application_id_4}", headers=auth_headers_teachers[1])
     assert response.status_code == 200
     data = response.get_json()
-    print(f"Returned answers for application ID {application_id_4}: {data}")
+    #print(f"Returned answers for application ID {application_id_4}: {data}")
 
     application_id_2 = 7
     response = client.get(f"/answers/application/{application_id_2}", headers=auth_headers_teachers[2])
     assert response.status_code == 200
     data = response.get_json()
-    print(f"Returned answers for application ID {application_id_2}: {data}")
+    #print(f"Returned answers for application ID {application_id_2}: {data}")
