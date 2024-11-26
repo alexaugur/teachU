@@ -286,7 +286,7 @@ def create_app(config_object=None):
         if teacher is None:
             return jsonify({"message": "teacher not found attached to user"}), 404
         schools = SchoolProfile.query.join(Message, SchoolProfile.school_id == Message.school_id).filter(Message.teacher_id == teacher_id).distinct().all()
-        print(schools)
+        
         result = SchoolProfileSchema().dump(schools, many=True)
         return (
                 jsonify(
@@ -433,11 +433,11 @@ def create_app(config_object=None):
 
     @socketio.on('connect')
     def handle_connect():
-        print('Client connected')
+       #print('Client connected')
 
     @socketio.on('disconnect')
     def handle_disconnect():
-        print('Client disconnected')
+        #print('Client disconnected')
 
 
     return app

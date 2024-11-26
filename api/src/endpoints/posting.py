@@ -370,7 +370,7 @@ def get_postings_by_location():
 @postings_bp.get("/salary")
 # @jwt_required()
 def get_postings_by_salary():
-    print(request.args.get('salary'))
+    #print(request.args.get('salary'))
     salary = float(request.args.get('salary'))
     amplitude = 10000
     if('amplitude' in request.args):
@@ -392,7 +392,7 @@ def get_postings_by_salary():
 @postings_bp.get("/title")
 # @jwt_required()
 def get_postings_by_title():
-    print(request.args.get('title'))
+    #print(request.args.get('title'))
     title = str(request.args.get('title'))
     # amplitude = 10000
     # if('amplitude' in request.args):

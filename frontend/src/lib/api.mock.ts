@@ -109,7 +109,7 @@ export const create_answers = jest.fn(async (
 });
 
 export const  school_login = jest.fn(async (email, password) => {
-    console.log("function calleddd")
+    
     return Promise.resolve("application_id");
   });
   

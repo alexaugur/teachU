@@ -43,9 +43,9 @@ function ApplicationCartApplyModal({
           }
         }
       }
-      console.log("Applications submitted successfully");
+      //("Applications submitted successfully");
     } catch (error) {
-      console.log(error);
+      //console.log(error);
       alert("Could not create job post. Please try again.");
     }
     editTeacherApplicationCart([]);

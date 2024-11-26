@@ -25,47 +25,7 @@ const GradingCriteria = ({ answerId }) => {
     fetchRubrics();
   }, [answerId]);
 
-  /**  
-  const handleScoreChange = async (newScore, rubricId, scoreId) => {
-    if (newScore == 'No score') {
-        newScore = -1
-    }
-    if (scoreId == null)  {
-        const score_id = await createScore(rubricId, answerId, newScore )
-        console.log(score_id)
-        console.log(rubrics)
-        const updatedRubrics = rubrics.map(rubric => {
-            if (rubric.id === rubricId) {
-                return {
-                    ...rubric,
-                    points: newScore,
-                    score_id: score_id
-                };
-            }
-            return rubric;
-        });
-        setRubrics(updatedRubrics);
-        console.log(rubrics)
-        
-
-
-    } else {
-        await updateScore(rubricId, scoreId, newScore)
-        const updatedRubrics = rubrics.map(rubric => {
-            if (rubric.id === rubricId) {
-                // Update the score object with new points and potentially new scoreId
-                return {
-                    ...rubric,
-                    points: newScore
-                };
-            }
-            return rubric;
-        });
-        setRubrics(updatedRubrics);
-    }
-
-  };
-  */
+  
   const handleScoreChange = async (newScore, rubricId, scoreId) => {
     let optimisticUpdatedRubrics = rubrics.map(rubric => {
         if (rubric.id === rubricId) {

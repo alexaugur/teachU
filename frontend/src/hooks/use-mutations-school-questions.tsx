@@ -182,7 +182,7 @@ function usePostingQuestions() {
     try {
       if (user) {
         await updateQuestion(id, content);
-        console.log("done");
+        
       }
     } catch (error) {
       toast({
