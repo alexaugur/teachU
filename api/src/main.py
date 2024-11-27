@@ -433,11 +433,11 @@ def create_app(config_object=None):
 
     @socketio.on('connect')
     def handle_connect():
-       #print('Client connected')
+        print('Client connected')
 
     @socketio.on('disconnect')
     def handle_disconnect():
-        #print('Client disconnected')
+        print('Client disconnected')
 
 
     return app

@@ -65,23 +65,42 @@ export const TeacherRegisterDialog = () => {
   //     }
   //     return responseJson;
   //   };
-
+  const { toast } = useToast();
   const handleUpload = async () => {
-    // console.log()
-    const response = await get_from_resume(file);
-    setFirstName(response["first_name"]);
-    setLastName(response["last_name"]);
-    setCurrentSchool(response["current_school"]);
-    setSubjectsTaught(response["subjects_taught"]);
-    setCurrentState(response["current_state"]);
-    setGradesTaught(response["grades_taught"]);
-    setYearsOfExperience(response["years_of_experience"]);
-    setPastJobs(response["past_jobs"]);
-    setAccolades(response["accolades"]);
-    setAccomodations(response["accomodations"]);
+    
+    try {
+      const response = await get_from_resume(file);
+      setFirstName(response["first_name"]);
+      setLastName(response["last_name"]);
+      setCurrentSchool(response["current_school"]);
+      setSubjectsTaught(response["subjects_taught"]);
+      setCurrentState(response["current_state"]);
+      setGradesTaught(response["grades_taught"]);
+      setYearsOfExperience(response["years_of_experience"]);
+      setPastJobs(response["past_jobs"]);
+      setAccolades(response["accolades"]);
+      setAccomodations(response["accomodations"]);
+
+    } catch (error) {
+      
+      toast({
+        variant: "destructive",
+        title: "Resume upload feature not working",
+        description: `Please enter your credentials manually.`,
+      });
+      
+
+
+    }
+   
+    
+      
+
+    
+    
   };
 
-  const { toast } = useToast();
+  //const { toast } = useToast();
   const { registerTeacherUser, loginTeacherUser } = useMutationTeacherUser();
 
   const clearFields = () => {

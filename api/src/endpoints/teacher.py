@@ -11,7 +11,12 @@ from flask_jwt_extended import (
 from ..models import Teacher, TeacherProfile, TokenBlocklist, ApplicationCart
 from ..schemas import TeacherSchema, TeacherProfileSchema
 from ..extensions import db
+from transformers import GPT2TokenizerFast
 
+def count_tokens(text):
+    tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
+    tokens = tokenizer.encode(text)
+    return len(tokens)
 
 teachers_bp = Blueprint('teachers', __name__)
 
@@ -108,10 +113,9 @@ def logout_user():
 
 
 from dotenv import load_dotenv
-load_dotenv()
 import openai
 import os
-openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 
 from PyPDF2 import PdfReader
@@ -131,14 +135,19 @@ def extract_text_from_pdf(pdf_file):
 
 @teachers_bp.route('/upload_resume', methods=['POST'])
 def upload_resume():
+    #openai.api_key = os.getenv("OPENAI_API_KEY")
+    load_dotenv()
     if 'resume' not in request.files:
         return 'No file uploaded', 400
     file = request.files['resume']
 
     text = extract_text_from_pdf(file)
+    token_count = count_tokens(text)
+    print(f"Number of tokens in the resume: {token_count}")
+
     # for page in file:
     #     text += page.get_text()
-    client = openai.OpenAI()
+    client = openai.OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
