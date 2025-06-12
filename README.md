@@ -126,7 +126,6 @@ Jest, React Testing Library, Flask's Built-in Testing
 Frontend: Vercel
 Backend: Render
 
-# Production Link
-https://teach-u.vercel.app/
+
 
 
